@@ -16,6 +16,8 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 1
 	  source:: {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
+		- {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
+		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
 	- 다른 하나
 	  title:: 다른 하나 another one
 	  level:: 1
@@ -194,3 +196,4 @@ alias:: 넘버블럭스
 	  order:: 30
 	  source:: {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 	-
+-
