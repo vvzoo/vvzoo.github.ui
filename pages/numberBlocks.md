@@ -176,4 +176,10 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 28
 	  source:: {{video https://youtu.be/-cL2Bv65EGk?si=HLUDNz7NaRxLwd3j}}
+	- 골칫덩어리
+	  title:: 골칫덩어리 double trouble
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 29
+	  source:: {{video https://youtu.be/AvISIYJW7Q4?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
 	-
