@@ -1,7 +1,7 @@
 :root {
-  --ct-text-size: 32px;
+  --ct-text-size: 24px;
   --ct-line-height: 1.6;
 }
 :root {
-  font-size: 24px !important;
+  font-size: 20px !important;
 }
