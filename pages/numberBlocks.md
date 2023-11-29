@@ -4,7 +4,9 @@ alias:: 넘버블럭스
   | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
   | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
   | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
-  | ((65669482-92e5-42dc-b822-5078b89cfd57)) |
+  | ((65669482-92e5-42dc-b822-5078b89cfd57)) | {{embed ((6566e76e-6c56-44bf-bf29-a0724a450630))}} |
+  | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
+  | ((656694bc-1ca4-4795-a458-b678d5493268)) |
 -
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
@@ -44,15 +46,18 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 4
-	  source:: {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
+		- {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
+		  id:: 6566e76e-6c56-44bf-bf29-a0724a450630
 	- 일, 이, 삼!
 	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
 	  title:: 일, 이, 삼! one, two, three!
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
-	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
+		- {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
+		  id:: 6566e786-1e5d-43a3-bbcb-e50d6a99aaac
 	- 사
+	  id:: 656694bc-1ca4-4795-a458-b678d5493268
 	  title:: 사 four
 	  level:: 1
 	  series:: numberBlocks
