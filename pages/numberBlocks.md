@@ -229,30 +229,30 @@ alias:: 넘버블럭스
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 26
-	  source:: {{video https://youtu.be/B8NqSD43Xl8?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+		- {{video https://youtu.be/B8NqSD43Xl8?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
 	- 열 녹색 병
 	  title:: 열 녹색 병 ten green bottles
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 27
-	  source:: {{video https://youtu.be/bXJRDY3ofPY?si=LUle7nmi_2MHN02H}}
+		- {{video https://youtu.be/bXJRDY3ofPY?si=LUle7nmi_2MHN02H}}
 	- 양을 세다
 	  title:: 양을 세다 counting sheep
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 28
-	  source:: {{video https://youtu.be/-cL2Bv65EGk?si=HLUDNz7NaRxLwd3j}}
+		- {{video https://youtu.be/-cL2Bv65EGk?si=HLUDNz7NaRxLwd3j}}
 	- 골칫덩어리
 	  title:: 골칫덩어리 double trouble
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 29
-	  source:: {{video https://youtu.be/AvISIYJW7Q4?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+		- {{video https://youtu.be/AvISIYJW7Q4?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
 	- 숫자 삼이 세 셋트
 	  title:: 숫자 삼이 세 셋트 the three threes
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 30
-	  source:: {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
+		- {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 	-
 -
