@@ -5,25 +5,26 @@ alias:: 넘버블럭스
   query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
+  collapsed:: true
 - series
 	- one
 	  title:: one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
-	  source:: {{video https://youtu.be/yajPLKqszFA}}
+	  source:: {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
 	- another one
-	  title:: another one
+	  title:: 다른 하나
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 2
-	  source:: {{video https://youtu.be/DD9jLCIfOxo}}
+	  source:: {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
 	- two
-	  title:: two
+	  title:: 이
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 3
-	  source:: {{video https://youtu.be/rbtyRCfFl9Q}}
+	  source:: {{video https://youtu.be/25fB8RCtVAk?si=Y3Dc1192fD8ypgsp}}
 	- three
 	  title:: three
 	  level:: 1
