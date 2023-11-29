@@ -61,4 +61,21 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 9
 	  source:: {{video https://youtu.be/ZWWC2p4Nfy0?si=BwJkgOy7IuBdFYum}}
-	-
+	- 어떻게 셀까요
+	  title:: 어떻게 셀까요
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 10
+	  source:: {{video https://youtu.be/SppozoGVTDE?si=HA32JPm1kAPxtg8m}}
+	- 스탬폴린
+	  title:: 스탬폴린
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 11
+	  source:: {{video https://youtu.be/g3y1-CsKit0?si=3q1KHYP2PuQ_SvOe}}
+	- another one
+	  title:: 
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 
+	  source::{{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
