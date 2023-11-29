@@ -115,3 +115,15 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 18
 	  source:: {{video https://youtu.be/9UxTopiIUvM}}
+	- 과일 샐러드
+	  title:: 과일 샐러드 fruit salad
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 19
+	  source:: {{video https://youtu.be/NtQplzWz-uQ}}
+	- 영
+	  title:: 영 zero
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 20
+	  source:: {{video https://youtu.be/LtmpIjNnqsI}}
