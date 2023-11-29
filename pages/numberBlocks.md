@@ -1,8 +1,8 @@
 alias:: 넘버블럭스
 
 - | title | source |
-  | 일 | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
-  | 다른 하나 | {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}} |
+  | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
+  | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
   query-properties:: [:title :source]
@@ -10,12 +10,14 @@ alias:: 넘버블럭스
   query-sort-desc:: false
   collapsed:: true
 - level1
+  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
-	  source:: {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
+	  id:: 6563d233-51fa-4323-ac12-f833120cef44
+	  collapsed:: true
 		- {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
 		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
 	- 다른 하나
@@ -23,7 +25,9 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 2
-	  source:: {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
+	  id:: 65669360-4c48-4252-9469-937c56c0608b
+		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
+		  id:: 6566e60c-ccf8-4681-8bc1-52444c3a668f
 	- 이
 	  title:: 이 two
 	  level:: 1
