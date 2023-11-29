@@ -87,19 +87,19 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 11
-	  source:: {{video https://youtu.be/g3y1-CsKit0?si=3q1KHYP2PuQ_SvOe}}
+		- {{video https://youtu.be/g3y1-CsKit0?si=3q1KHYP2PuQ_SvOe}}
 	- 나의 모든 것
 	  title:: 나의 모든 것
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 12
-	  source:: {{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
+		- {{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
 	- 끔찍한 숫자 이들
 	  title:: 끔찍한 숫자 이들 the terrible twos
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 13
-	  source:: {{video https://youtu.be/pc-rj9aIM_8?si=j3QvpaSAHeQiS1NE}}
+		- {{video https://youtu.be/pc-rj9aIM_8?si=j3QvpaSAHeQiS1NE}}
 	- 구멍
 	  title:: 구멍 holes
 	  level:: 1
@@ -111,37 +111,37 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 15
-	  source:: {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
+		- {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
 	- 옛날 옛적에
 	  title:: 옛날 옛적에 one upon a time
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 16
-	  source:: {{video https://youtu.be/1kRatsxxqR0?si=a5rJTQ8EN18hFbyJ}}
+		- {{video https://youtu.be/1kRatsxxqR0?si=a5rJTQ8EN18hFbyJ}}
 	- 블록질라
 	  title:: 블록질라 blockzilla
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 17
-	  source:: {{video https://youtu.be/tc4RwqnprKY?si=h1-2KtcUL4TJ-9He}}
+		- {{video https://youtu.be/tc4RwqnprKY?si=h1-2KtcUL4TJ-9He}}
 	- 넘버블럭스 급행
 	  title:: 넘버블럭스 급행 the numberblocks express
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 18
-	  source:: {{video https://youtu.be/7qge2F67YRs?si=8mjfRRUvY9AeCcrZ}}
+		- {{video https://youtu.be/7qge2F67YRs?si=8mjfRRUvY9AeCcrZ}}
 	- 과일 샐러드
 	  title:: 과일 샐러드 fruit salad
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 19
-	  source:: {{video https://youtu.be/gL3MrWQ7RJk?si=ojVXQG0zZlolhN2e}}
+		- {{video https://youtu.be/gL3MrWQ7RJk?si=ojVXQG0zZlolhN2e}}
 	- 영
 	  title:: 영 zero
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 20
-	  source:: {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
+		- {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
 - level2
   collapsed:: true
 	- 육
