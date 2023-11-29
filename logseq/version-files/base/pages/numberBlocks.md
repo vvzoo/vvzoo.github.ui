@@ -1,5 +1,7 @@
 alias:: 넘버블럭스
 
+- | title | source |
+  | 일 | {{video https://youtu.be/pAFkRHIz-og}} |
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
   query-properties:: [:title :source]

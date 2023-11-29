@@ -1,10 +1,13 @@
 alias:: 넘버블럭스
 
+- | title | source |
+  | 일 | {{video https://youtu.be/pAFkRHIz-og}} |
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
   query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
+  collapsed:: true
 - level1
   collapsed:: true
 	- 일
