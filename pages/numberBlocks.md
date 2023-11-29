@@ -11,7 +11,7 @@ alias:: 넘버블럭스
   | ((656694e5-e43e-440f-ba4d-6295c3a32392)) | {{embed ((656710e4-0ff8-4b25-a10c-1d154f88762d))}} |
   | ((6566b4a3-6119-44a7-a3a6-f949be8d74fc)) | {{embed ((656710eb-5aaf-4d15-8405-558329b2d08c))}} |
   | ((6566b4c3-f5b3-4f2c-b6b2-61eaef365ff3)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
-  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5))
+  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
 -
 - level1
 	- 일
@@ -107,6 +107,7 @@ alias:: 넘버블럭스
 	  order:: 11
 	  id:: 6566b4de-9580-43ed-9404-f7931dc0a6e5
 		- {{video https://youtu.be/g3y1-CsKit0?si=3q1KHYP2PuQ_SvOe}}
+		  id:: 656710f8-4ee9-4f55-9b7d-a00f878b9f0c
 	- 나의 모든 것
 	  title:: 나의 모든 것
 	  level:: 1
