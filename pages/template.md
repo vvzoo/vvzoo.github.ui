@@ -8,3 +8,4 @@ template:: 이미지와 타이틀
 	- pokemonnumber:: 0000
 	  image:: {image}
 	  진화:: →
+-
