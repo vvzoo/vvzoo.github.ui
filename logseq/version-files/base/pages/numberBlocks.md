@@ -80,9 +80,15 @@ alias:: 넘버블럭스
 	  order:: 12
 	  source:: {{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
 	- 끔찍한 숫자 이들
-	  title:: 끔찍한 숫자 이들
+	  title:: 끔찍한 숫자 이들 the terrible twos
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 13
 	  source:: {{video https://youtu.be/pc-rj9aIM_8?si=j3QvpaSAHeQiS1NE}}
+	- 구멍
+	  title:: 구멍 holes
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 14
+	  source:: {{video https://youtu.be/PuG9ytTj-Jw?si=iOVntYbvgGlI5qtW}}
 	-
