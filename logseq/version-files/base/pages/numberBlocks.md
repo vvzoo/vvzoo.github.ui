@@ -5,6 +5,7 @@ alias:: 넘버블럭스
   query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
+  collapsed:: true
 - level1
   collapsed:: true
 	- one
@@ -37,6 +38,7 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 5
 	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
+	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
 	- four
 	  title:: 사
 	  level:: 1
@@ -128,6 +130,7 @@ alias:: 넘버블럭스
 	  order:: 20
 	  source:: {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
 - level2
+  collapsed:: true
 	- 육
 	  title:: 육 six
 	  level:: 2
@@ -189,3 +192,5 @@ alias:: 넘버블럭스
 	  order:: 30
 	  source:: {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 	-
+- | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) |
+-
