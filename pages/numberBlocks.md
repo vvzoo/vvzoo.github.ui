@@ -3,7 +3,7 @@ alias:: 넘버블럭스
 - | title | source |
   | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
   | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
-  | ((65669482-92e5-42dc-b822-5078b89cfd57)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
+  | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
   query-properties:: [:title :source]
@@ -33,6 +33,7 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 3
+	  id:: 65669344-4ea3-4a00-9f57-e1553f6d1d7f
 		- {{video https://youtu.be/25fB8RCtVAk?si=Y3Dc1192fD8ypgsp}}
 		  id:: 6566e694-0940-4d55-b704-7b6800283f5e
 	- 삼
