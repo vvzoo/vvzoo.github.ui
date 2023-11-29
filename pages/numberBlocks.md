@@ -14,7 +14,10 @@ alias:: 넘버블럭스
   | ((6566b4de-9580-43ed-9404-f7931dc0a6e5)) | {{embed ((656710f8-4ee9-4f55-9b7d-a00f878b9f0c))}} |
   | ((6566b4f5-3de1-4b86-a643-b52bd132f409)) | {{embed ((656710fc-c926-4bcf-b21f-43ed07b28d94))}} |
   | ((6566b50e-1f50-43ce-8cab-3e63782ec7df)) | {{embed ((65671102-017b-44d7-b7a5-8cacf6583c20))}} |
-  | ((6566b549-2883-45ee-ad52-ce1edbdfe4c7)) | |
+  | ((6566b549-2883-45ee-ad52-ce1edbdfe4c7)) | {{embed ((6567121d-09fe-4881-8cac-81ef05bb444c))}} |
+  | ((6566b52c-baf8-4724-9967-04e36fb4d2bd)) | {{embed ((6567110c-3fa6-49be-a064-44ef4e9d6118))}} |
+  | ((6566b57c-1f19-4dc3-938a-c696b56c9ffc)) | {{embed ((65671110-6e21-41d9-9042-0597b9fc9648))}} |
+  | ((6566b5e3-e432-4166-b200-48d70c5cab18)) | {{embed }}
 -
 - level1
 	- 일
@@ -140,18 +143,23 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 15
+	  id:: 6566b52c-baf8-4724-9967-04e36fb4d2bd
 		- {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
+		  id:: 6567110c-3fa6-49be-a064-44ef4e9d6118
 	- 옛날 옛적에
 	  title:: 옛날 옛적에 one upon a time
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 16
+	  id:: 6566b57c-1f19-4dc3-938a-c696b56c9ffc
 		- {{video https://youtu.be/1kRatsxxqR0?si=a5rJTQ8EN18hFbyJ}}
+		  id:: 65671110-6e21-41d9-9042-0597b9fc9648
 	- 블록질라
 	  title:: 블록질라 blockzilla
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 17
+	  id:: 6566b5e3-e432-4166-b200-48d70c5cab18
 		- {{video https://youtu.be/tc4RwqnprKY?si=h1-2KtcUL4TJ-9He}}
 	- 넘버블럭스 급행
 	  title:: 넘버블럭스 급행 the numberblocks express
