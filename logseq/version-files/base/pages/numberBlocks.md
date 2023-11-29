@@ -103,3 +103,15 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 16
 	  source:: {{video https://youtu.be/xnHUf9zqU_U}}
+	- 블럭질라
+	  title:: 블럭질라 blockzilla
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 17
+	  source:: {{video https://youtu.be/Ii3E4zLEAuU}}
+	- 넘버블럭스 열차
+	  title:: 넘버블럭스 열차 the numberblocks express
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 18
+	  source:: {{video https://youtu.be/9UxTopiIUvM}}
