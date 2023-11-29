@@ -192,5 +192,4 @@ alias:: 넘버블럭스
 	  order:: 30
 	  source:: {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 	-
-- | {{embed ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) }} |
 -
