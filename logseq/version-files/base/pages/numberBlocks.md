@@ -97,24 +97,24 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 15
 	  source:: {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
-	- 옛날 옛날에
-	  title:: 옛날 옛날에 one upon a time
+	- 옛날 옛적에
+	  title:: 옛날 옛적에 one upon a time
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 16
-	  source:: {{video https://youtu.be/xnHUf9zqU_U}}
-	- 블럭질라
-	  title:: 블럭질라 blockzilla
+	  source:: {{video https://youtu.be/1kRatsxxqR0?si=a5rJTQ8EN18hFbyJ}}
+	- 블록질라
+	  title:: 블록질라 blockzilla
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 17
-	  source:: {{video https://youtu.be/Ii3E4zLEAuU}}
-	- 넘버블럭스 열차
-	  title:: 넘버블럭스 r the numberblocks express
+	  source:: {{video https://youtu.be/tc4RwqnprKY?si=h1-2KtcUL4TJ-9He}}
+	- 넘버블럭스 급행
+	  title:: 넘버블럭스 급행 the numberblocks express
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 18
-	  source:: {{video https://youtu.be/9UxTopiIUvM}}
+	  source:: {{video https://youtu.be/7qge2F67YRs?si=8mjfRRUvY9AeCcrZ}}
 	- 과일 샐러드
 	  title:: 과일 샐러드 fruit salad
 	  level:: 1
