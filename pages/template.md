@@ -8,4 +8,12 @@ template:: 이미지와 타이틀
 	- pokemonnumber:: 0000
 	  image:: {image}
 	  진화:: →
--
+- 넘버블럭스
+  template:: 넘버블럭스
+  template-including-parent:: false
+	- another one
+	  title:: 
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 
+	  source::

@@ -18,4 +18,9 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 2
 	  source:: {{video https://youtu.be/DD9jLCIfOxo}}
-	-
+	- two
+	  title:: two
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 3
+	  source::
