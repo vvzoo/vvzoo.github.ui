@@ -6,7 +6,7 @@ alias:: 넘버블럭스
   | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
   | ((65669482-92e5-42dc-b822-5078b89cfd57)) | {{embed ((6566e76e-6c56-44bf-bf29-a0724a450630))}} |
   | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
-  | ((656694bc-1ca4-4795-a458-b678d5493268)) |
+  | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
 -
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
@@ -62,7 +62,8 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 6
-	  source:: {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
+		- {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
+		  id:: 6566e7a8-ac86-436d-abda-fcce772b6ce7
 	- 오
 	  title:: 오 five
 	  level:: 1
