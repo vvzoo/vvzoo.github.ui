@@ -4,6 +4,41 @@ alias:: 넘버블럭스
   | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
   | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
   | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
+- ```bash
+  title
+  source
+  일 one	
+  다른 하나 another one	
+  이 two	
+  삼 three	
+  일, 이, 삼! one, two, three!	
+  사 four	
+  오 five	
+  아기 돼지 세마리 Three Little Pigs	
+  우리가 간다	
+  어떻게 셀까요	
+  스탬폴린	
+  나의 모든 것	
+  끔찍한 숫자 이들 the terrible twos	
+  구멍 holes	
+  숨은 그림 찾기 hide and seeks	
+  옛날 옛적에 one upon a time	
+  블록질라 blockzilla	
+  넘버블럭스 급행 the numberblocks express	
+  과일 샐러드 fruit salad	
+  영 zero	
+  육 six	
+  칠 seven	
+  팔 eight	
+  구 nine	
+  십 ten	
+  일을 더하기 just add one	
+  열 녹색 병 ten green bottles	
+  양을 세다 counting sheep	
+  골칫덩어리 double trouble	
+  숫자 삼이 세 셋트 the three threes	
+  
+  ```
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
   query-properties:: [:title :source]
