@@ -2,6 +2,7 @@ alias:: 넘버블럭스
 
 - | title | source |
   | 일 | {{video https://youtu.be/pAFkRHIz-og}} |
+  | 다른 하나 | {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}} |
 - {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
   query-properties:: [:title :source]
@@ -9,7 +10,6 @@ alias:: 넘버블럭스
   query-sort-desc:: false
   collapsed:: true
 - level1
-  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
@@ -194,3 +194,4 @@ alias:: 넘버블럭스
 	  order:: 30
 	  source:: {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 	-
+-
