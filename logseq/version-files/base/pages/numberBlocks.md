@@ -32,26 +32,32 @@ alias:: 넘버블럭스
 	  order:: 4
 	  source:: {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
 	- one, two, three!
-	  title:: d
+	  title:: 일, 이, 삼!
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
-	  source:: {{video https://youtu.be/Hj66zCFDf4w}}
+	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
 	- four
-	  title:: four
+	  title:: 사
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 6
-	  source:: {{video https://youtu.be/Reras37ZRZo}}
+	  source:: {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
 	- five
-	  title:: five
+	  title:: 오
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 7
-	  source:: {{video https://youtu.be/kOX_YE0PBpk}}
+	  source:: {{video https://youtu.be/6QNilvPES6Y?si=MvaMwZsAuG7PEHk6}}
 	- Three Little Pigs
-	  title:: Three Little Pigs
+	  title:: 아기 돼지 세마리
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 8
-	  source:: {{video https://youtu.be/A7NkxeXizIw}}
+	  source:: {{video https://youtu.be/Y4ehi0wzmMU?si=zA2Et6a_g_lq53h9}}
+	- another one
+	  title:: 
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 
+	  source::
