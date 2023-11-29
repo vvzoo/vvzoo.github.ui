@@ -8,11 +8,6 @@ alias:: 넘버블럭스
   | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
   | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
 -
-- {{query (and (property :series "numberBlocks") (not [[template]]))}}
-  query-table:: true
-  query-properties:: [:title :source]
-  query-sort-by:: order
-  query-sort-desc:: false
 - level1
   collapsed:: true
 	- 일
