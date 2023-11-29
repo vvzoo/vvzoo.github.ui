@@ -5,54 +5,53 @@ alias:: 넘버블럭스
   query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
-  collapsed:: true
 - level1
   collapsed:: true
-	- one
-	  title:: 일
+	- 일
+	  title:: 일 one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
 	  source:: {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
-	- another one
-	  title:: 다른 하나
+	- 다른 하나
+	  title:: 다른 하나 another one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 2
 	  source:: {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
-	- two
-	  title:: 이
+	- 이
+	  title:: 이 two
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 3
 	  source:: {{video https://youtu.be/25fB8RCtVAk?si=Y3Dc1192fD8ypgsp}}
-	- three
-	  title:: 삼
+	- 삼
+	  title:: 삼 three
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 4
 	  source:: {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
-	- one, two, three!
-	  title:: 일, 이, 삼!
+	- 일, 이, 삼!
+	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
+	  title:: 일, 이, 삼! one, two, three!
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
 	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
-	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
-	- four
-	  title:: 사
+	- 사
+	  title:: 사 four
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 6
 	  source:: {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
-	- five
-	  title:: 오
+	- 오
+	  title:: 오 five
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 7
 	  source:: {{video https://youtu.be/6QNilvPES6Y?si=MvaMwZsAuG7PEHk6}}
-	- Three Little Pigs
-	  title:: 아기 돼지 세마리
+	- 아기 돼지 세마리
+	  title:: 아기 돼지 세마리 Three Little Pigs
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 8

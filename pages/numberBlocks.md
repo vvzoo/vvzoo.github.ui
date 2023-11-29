@@ -5,8 +5,8 @@ alias:: 넘버블럭스
   query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
-  collapsed:: true
 - level1
+  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
@@ -31,27 +31,27 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 4
 	  source:: {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
-	- 일, 이, 삼!one, two, three!
+	- 일, 이, 삼!
 	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
-	  title:: 일, 이, 삼!
+	  title:: 일, 이, 삼! one, two, three!
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
 	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
-	- four
-	  title:: 사
+	- 사
+	  title:: 사 four
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 6
 	  source:: {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
-	- five
-	  title:: 오
+	- 오
+	  title:: 오 five
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 7
 	  source:: {{video https://youtu.be/6QNilvPES6Y?si=MvaMwZsAuG7PEHk6}}
-	- Three Little Pigs
-	  title:: 아기 돼지 세마리
+	- 아기 돼지 세마리
+	  title:: 아기 돼지 세마리 Three Little Pigs
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 8
