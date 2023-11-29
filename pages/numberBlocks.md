@@ -1,7 +1,6 @@
 alias:: 넘버블럭스
 
 - level 1
-  collapsed:: true
 	- | title | source |
 	  | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
 	  | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
@@ -25,14 +24,12 @@ alias:: 넘버블럭스
 	  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) | {{embed ((65671125-9b1b-4fca-802f-568ca36f88a0))}} |
 -
 - level1
-  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
 	  id:: 6563d233-51fa-4323-ac12-f833120cef44
-	  collapsed:: true
 		- {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
 		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
 	- 다른 하나
