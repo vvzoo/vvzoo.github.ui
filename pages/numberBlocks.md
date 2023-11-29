@@ -5,8 +5,8 @@ alias:: 넘버블럭스
   query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
+- level1
   collapsed:: true
-- series
 	- one
 	  title:: 일
 	  level:: 1
@@ -127,3 +127,11 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 20
 	  source:: {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
+- level2
+  collapsed:: true
+	- 육
+	  title:: 육 six
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 21
+	  source:: {{video https://youtu.be/rB8oDH93u7g?si=8VMQkcrgCZXSxBf8}}
