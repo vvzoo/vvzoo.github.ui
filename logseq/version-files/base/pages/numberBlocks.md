@@ -110,7 +110,7 @@ alias:: 넘버블럭스
 	  order:: 17
 	  source:: {{video https://youtu.be/Ii3E4zLEAuU}}
 	- 넘버블럭스 열차
-	  title:: 넘버블럭스 열차 the numberblocks express
+	  title:: 넘버블럭스 r the numberblocks express
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 18
@@ -120,10 +120,10 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 19
-	  source:: {{video https://youtu.be/NtQplzWz-uQ}}
+	  source:: {{video https://youtu.be/gL3MrWQ7RJk?si=ojVXQG0zZlolhN2e}}
 	- 영
 	  title:: 영 zero
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 20
-	  source:: {{video https://youtu.be/LtmpIjNnqsI}}
+	  source:: {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}

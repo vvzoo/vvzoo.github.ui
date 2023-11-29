@@ -109,21 +109,21 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 17
 	  source:: {{video https://youtu.be/Ii3E4zLEAuU}}
-	- 넘버블럭스 열차
-	  title:: 넘버블럭스 열차 the numberblocks express
+	- 넘버블럭스 급행
+	  title:: 넘버블럭스 급행 the numberblocks express
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 18
-	  source:: {{video https://youtu.be/9UxTopiIUvM}}
+	  source:: {{video https://youtu.be/7qge2F67YRs?si=8mjfRRUvY9AeCcrZ}}
 	- 과일 샐러드
 	  title:: 과일 샐러드 fruit salad
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 19
-	  source:: {{video https://youtu.be/NtQplzWz-uQ}}
+	  source:: {{video https://youtu.be/gL3MrWQ7RJk?si=ojVXQG0zZlolhN2e}}
 	- 영
 	  title:: 영 zero
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 20
-	  source:: {{video https://youtu.be/LtmpIjNnqsI}}
+	  source:: {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
