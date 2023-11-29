@@ -128,7 +128,6 @@ alias:: 넘버블럭스
 	  order:: 20
 	  source:: {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
 - level2
-  collapsed:: true
 	- 육
 	  title:: 육 six
 	  level:: 2
