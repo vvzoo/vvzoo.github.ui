@@ -17,7 +17,10 @@ alias:: 넘버블럭스
   | ((6566b549-2883-45ee-ad52-ce1edbdfe4c7)) | {{embed ((6567121d-09fe-4881-8cac-81ef05bb444c))}} |
   | ((6566b52c-baf8-4724-9967-04e36fb4d2bd)) | {{embed ((6567110c-3fa6-49be-a064-44ef4e9d6118))}} |
   | ((6566b57c-1f19-4dc3-938a-c696b56c9ffc)) | {{embed ((65671110-6e21-41d9-9042-0597b9fc9648))}} |
-  | ((6566b5e3-e432-4166-b200-48d70c5cab18)) | {{embed }}
+  | ((6566b5e3-e432-4166-b200-48d70c5cab18)) | {{embed ((65671116-b073-4b6a-a608-d47f88f21eed))}} |
+  | ((a54c60ce-17f7-418d-9311-797db78af4f9)) | {{embed ((6567111b-2671-454c-8324-0d0979000aaf))}} |
+  | ((6566b62b-430b-4a18-9b5e-73df4d10f593)) | {{embed ((65671120-5567-4c12-aba0-09a1bf7a86fb))}} |
+  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) |
 -
 - level1
 	- 일
@@ -161,23 +164,29 @@ alias:: 넘버블럭스
 	  order:: 17
 	  id:: 6566b5e3-e432-4166-b200-48d70c5cab18
 		- {{video https://youtu.be/tc4RwqnprKY?si=h1-2KtcUL4TJ-9He}}
+		  id:: 65671116-b073-4b6a-a608-d47f88f21eed
 	- 넘버블럭스 급행
 	  title:: 넘버블럭스 급행 the numberblocks express
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 18
+	  id:: a54c60ce-17f7-418d-9311-797db78af4f9
 		- {{video https://youtu.be/7qge2F67YRs?si=8mjfRRUvY9AeCcrZ}}
+		  id:: 6567111b-2671-454c-8324-0d0979000aaf
 	- 과일 샐러드
 	  title:: 과일 샐러드 fruit salad
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 19
+	  id:: 6566b62b-430b-4a18-9b5e-73df4d10f593
 		- {{video https://youtu.be/gL3MrWQ7RJk?si=ojVXQG0zZlolhN2e}}
+		  id:: 65671120-5567-4c12-aba0-09a1bf7a86fb
 	- 영
 	  title:: 영 zero
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 20
+	  id:: 6566b648-0029-4d0a-9cf6-d1b227181756
 		- {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
 - level2
   collapsed:: true
