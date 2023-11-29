@@ -8,7 +8,10 @@ alias:: 넘버블럭스
   | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
   | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
   | ((656694d5-8caf-42d4-bf9e-7ec269b63c93)) | {{embed ((656710dd-27fe-45ae-a7a9-49bf9f2e2af7))}} |
-  | ((656694e5-e43e-440f-ba4d-6295c3a32392)) |
+  | ((656694e5-e43e-440f-ba4d-6295c3a32392)) | {{embed ((656710e4-0ff8-4b25-a10c-1d154f88762d))}} |
+  | ((6566b4a3-6119-44a7-a3a6-f949be8d74fc)) | {{embed ((656710eb-5aaf-4d15-8405-558329b2d08c))}} |
+  | ((6566b4c3-f5b3-4f2c-b6b2-61eaef365ff3)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
+  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5))
 -
 - level1
 	- 일
@@ -80,23 +83,29 @@ alias:: 넘버블럭스
 	  order:: 8
 	  id:: 656694e5-e43e-440f-ba4d-6295c3a32392
 		- {{video https://youtu.be/Y4ehi0wzmMU?si=zA2Et6a_g_lq53h9}}
+		  id:: 656710e4-0ff8-4b25-a10c-1d154f88762d
 	- 우리가 간다
 	  title:: 우리가 간다
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 9
+	  id:: 6566b4a3-6119-44a7-a3a6-f949be8d74fc
 		- {{video https://youtu.be/ZWWC2p4Nfy0?si=BwJkgOy7IuBdFYum}}
+		  id:: 656710eb-5aaf-4d15-8405-558329b2d08c
 	- 어떻게 셀까요
 	  title:: 어떻게 셀까요
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 10
+	  id:: 6566b4c3-f5b3-4f2c-b6b2-61eaef365ff3
 		- {{video https://youtu.be/SppozoGVTDE?si=HA32JPm1kAPxtg8m}}
+		  id:: 656710f2-75fe-473b-b6a1-eea66dabe233
 	- 스탬폴린
 	  title:: 스탬폴린
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 11
+	  id:: 6566b4de-9580-43ed-9404-f7931dc0a6e5
 		- {{video https://youtu.be/g3y1-CsKit0?si=3q1KHYP2PuQ_SvOe}}
 	- 나의 모든 것
 	  title:: 나의 모든 것
