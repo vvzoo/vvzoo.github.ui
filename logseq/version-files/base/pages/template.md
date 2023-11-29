@@ -11,9 +11,9 @@ template:: 이미지와 타이틀
 - 넘버블럭스
   template:: 넘버블럭스
   template-including-parent:: false
-	- another one
+	- title
 	  title:: 
-	  level:: 1
+	  level:: 2
 	  series:: numberBlocks
-	  order:: 
+	  order:: 2
 	  source::

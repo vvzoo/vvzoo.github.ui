@@ -134,3 +134,10 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 21
 	  source:: {{video https://youtu.be/rB8oDH93u7g?si=8VMQkcrgCZXSxBf8}}
+	- 칠
+	  title:: 칠 seven
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 22
+	  source:: {{video https://youtu.be/GDk8GeKCRAg?si=dNl8usDSbXFX_Bvn}}
+	-
