@@ -9,7 +9,6 @@ alias:: 넘버블럭스
   | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
 -
 - level1
-  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1

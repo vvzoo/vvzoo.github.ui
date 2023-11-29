@@ -9,7 +9,6 @@ alias:: 넘버블럭스
   | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
 -
 - level1
-  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
@@ -64,25 +63,25 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 7
-	  source:: {{video https://youtu.be/6QNilvPES6Y?si=MvaMwZsAuG7PEHk6}}
+		- {{video https://youtu.be/6QNilvPES6Y?si=MvaMwZsAuG7PEHk6}}
 	- 아기 돼지 세마리
 	  title:: 아기 돼지 세마리 Three Little Pigs
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 8
-	  source:: {{video https://youtu.be/Y4ehi0wzmMU?si=zA2Et6a_g_lq53h9}}
+		- {{video https://youtu.be/Y4ehi0wzmMU?si=zA2Et6a_g_lq53h9}}
 	- 우리가 간다
 	  title:: 우리가 간다
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 9
-	  source:: {{video https://youtu.be/ZWWC2p4Nfy0?si=BwJkgOy7IuBdFYum}}
+		- {{video https://youtu.be/ZWWC2p4Nfy0?si=BwJkgOy7IuBdFYum}}
 	- 어떻게 셀까요
 	  title:: 어떻게 셀까요
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 10
-	  source:: {{video https://youtu.be/SppozoGVTDE?si=HA32JPm1kAPxtg8m}}
+		- {{video https://youtu.be/SppozoGVTDE?si=HA32JPm1kAPxtg8m}}
 	- 스탬폴린
 	  title:: 스탬폴린
 	  level:: 1
