@@ -38,8 +38,7 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 2
 	  id:: 65669360-4c48-4252-9469-937c56c0608b
-	  collapsed:: true
-		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
+		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf&playlist=pAFkRHIz-og&rel=0}}
 		  id:: 6566e60c-ccf8-4681-8bc1-52444c3a668f
 	- 이
 	  title:: 이 two
