@@ -23,4 +23,16 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 3
-	  source::
+	  source:: {{video https://youtu.be/rbtyRCfFl9Q}}
+	- three
+	  title:: three
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 4
+	  source:: {{video https://youtu.be/o1S1mZe5wqg}}
+	- one, two, three!
+	  title:: one, two, three!
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 5
+	  source:: {{video https://youtu.be/Hj66zCFDf4w}}
