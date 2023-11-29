@@ -97,9 +97,15 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 15
 	  source:: {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
-	- another one
-	  title:: 
+	- 옛날 옛날에
+	  title:: 옛날 옛날에 one upon a time
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 16
 	  source:: {{video https://youtu.be/xnHUf9zqU_U}}
+	- another one
+	  title:: 블럭질라 
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 17
+	  source:: {{video https://youtu.be/Ii3E4zLEAuU}}
