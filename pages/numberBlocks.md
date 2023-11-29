@@ -1,28 +1,31 @@
 alias:: 넘버블럭스
 
-- | title | source |
-  | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
-  | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
-  | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
-  | ((65669482-92e5-42dc-b822-5078b89cfd57)) | {{embed ((6566e76e-6c56-44bf-bf29-a0724a450630))}} |
-  | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
-  | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
-  | ((656694d5-8caf-42d4-bf9e-7ec269b63c93)) | {{embed ((656710dd-27fe-45ae-a7a9-49bf9f2e2af7))}} |
-  | ((656694e5-e43e-440f-ba4d-6295c3a32392)) | {{embed ((656710e4-0ff8-4b25-a10c-1d154f88762d))}} |
-  | ((6566b4a3-6119-44a7-a3a6-f949be8d74fc)) | {{embed ((656710eb-5aaf-4d15-8405-558329b2d08c))}} |
-  | ((6566b4c3-f5b3-4f2c-b6b2-61eaef365ff3)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
-  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5)) | {{embed ((656710f8-4ee9-4f55-9b7d-a00f878b9f0c))}} |
-  | ((6566b4f5-3de1-4b86-a643-b52bd132f409)) | {{embed ((656710fc-c926-4bcf-b21f-43ed07b28d94))}} |
-  | ((6566b50e-1f50-43ce-8cab-3e63782ec7df)) | {{embed ((65671102-017b-44d7-b7a5-8cacf6583c20))}} |
-  | ((6566b549-2883-45ee-ad52-ce1edbdfe4c7)) | {{embed ((6567121d-09fe-4881-8cac-81ef05bb444c))}} |
-  | ((6566b52c-baf8-4724-9967-04e36fb4d2bd)) | {{embed ((6567110c-3fa6-49be-a064-44ef4e9d6118))}} |
-  | ((6566b57c-1f19-4dc3-938a-c696b56c9ffc)) | {{embed ((65671110-6e21-41d9-9042-0597b9fc9648))}} |
-  | ((6566b5e3-e432-4166-b200-48d70c5cab18)) | {{embed ((65671116-b073-4b6a-a608-d47f88f21eed))}} |
-  | ((a54c60ce-17f7-418d-9311-797db78af4f9)) | {{embed ((6567111b-2671-454c-8324-0d0979000aaf))}} |
-  | ((6566b62b-430b-4a18-9b5e-73df4d10f593)) | {{embed ((65671120-5567-4c12-aba0-09a1bf7a86fb))}} |
-  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) |
+- level 1
+  collapsed:: true
+	- | title | source |
+	  | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
+	  | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
+	  | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | {{embed ((6566e694-0940-4d55-b704-7b6800283f5e))}} |
+	  | ((65669482-92e5-42dc-b822-5078b89cfd57)) | {{embed ((6566e76e-6c56-44bf-bf29-a0724a450630))}} |
+	  | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
+	  | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
+	  | ((656694d5-8caf-42d4-bf9e-7ec269b63c93)) | {{embed ((656710dd-27fe-45ae-a7a9-49bf9f2e2af7))}} |
+	  | ((656694e5-e43e-440f-ba4d-6295c3a32392)) | {{embed ((656710e4-0ff8-4b25-a10c-1d154f88762d))}} |
+	  | ((6566b4a3-6119-44a7-a3a6-f949be8d74fc)) | {{embed ((656710eb-5aaf-4d15-8405-558329b2d08c))}} |
+	  | ((6566b4c3-f5b3-4f2c-b6b2-61eaef365ff3)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
+	  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5)) | {{embed ((656710f8-4ee9-4f55-9b7d-a00f878b9f0c))}} |
+	  | ((6566b4f5-3de1-4b86-a643-b52bd132f409)) | {{embed ((656710fc-c926-4bcf-b21f-43ed07b28d94))}} |
+	  | ((6566b50e-1f50-43ce-8cab-3e63782ec7df)) | {{embed ((65671102-017b-44d7-b7a5-8cacf6583c20))}} |
+	  | ((6566b549-2883-45ee-ad52-ce1edbdfe4c7)) | {{embed ((6567121d-09fe-4881-8cac-81ef05bb444c))}} |
+	  | ((6566b52c-baf8-4724-9967-04e36fb4d2bd)) | {{embed ((6567110c-3fa6-49be-a064-44ef4e9d6118))}} |
+	  | ((6566b57c-1f19-4dc3-938a-c696b56c9ffc)) | {{embed ((65671110-6e21-41d9-9042-0597b9fc9648))}} |
+	  | ((6566b5e3-e432-4166-b200-48d70c5cab18)) | {{embed ((65671116-b073-4b6a-a608-d47f88f21eed))}} |
+	  | ((a54c60ce-17f7-418d-9311-797db78af4f9)) | {{embed ((6567111b-2671-454c-8324-0d0979000aaf))}} |
+	  | ((6566b62b-430b-4a18-9b5e-73df4d10f593)) | {{embed ((65671120-5567-4c12-aba0-09a1bf7a86fb))}} |
+	  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) | {{embed ((65671125-9b1b-4fca-802f-568ca36f88a0))}} |
 -
 - level1
+  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
@@ -188,6 +191,7 @@ alias:: 넘버블럭스
 	  order:: 20
 	  id:: 6566b648-0029-4d0a-9cf6-d1b227181756
 		- {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
+		  id:: 65671125-9b1b-4fca-802f-568ca36f88a0
 - level2
   collapsed:: true
 	- 육
@@ -195,31 +199,31 @@ alias:: 넘버블럭스
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 21
-	  source:: {{video https://youtu.be/rB8oDH93u7g?si=8VMQkcrgCZXSxBf8}}
+		- {{video https://youtu.be/rB8oDH93u7g?si=8VMQkcrgCZXSxBf8}}
 	- 칠
 	  title:: 칠 seven
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 22
-	  source:: {{video https://youtu.be/GDk8GeKCRAg?si=dNl8usDSbXFX_Bvn}}
+		- {{video https://youtu.be/GDk8GeKCRAg?si=dNl8usDSbXFX_Bvn}}
 	- 팔
 	  title:: 팔 eight
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 23
-	  source:: {{video https://youtu.be/FGQdZZn7YyI}}
+		- {{video https://youtu.be/FGQdZZn7YyI}}
 	- 구
 	  title:: 구 nine
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 24
-	  source:: {{video https://youtu.be/vtV0hYGj1rE?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+		- {{video https://youtu.be/vtV0hYGj1rE?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
 	- 십
 	  title:: 십 ten
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 25
-	  source:: {{video https://youtu.be/GMCFU8pP24I?si=4caN3P0kpDfbi7Ud}}
+		- {{video https://youtu.be/GMCFU8pP24I?si=4caN3P0kpDfbi7Ud}}
 	- 일을 더하기
 	  title:: 일을 더하기 just add one
 	  level:: 2
