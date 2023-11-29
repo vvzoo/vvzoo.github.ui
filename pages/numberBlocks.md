@@ -36,3 +36,16 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 5
 	  source:: {{video https://youtu.be/Hj66zCFDf4w}}
+	- four
+	  title:: four
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 6
+	  source:: {{video https://youtu.be/Reras37ZRZo}}
+	- five
+	  title:: five
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 7
+	  source:: {{video https://youtu.be/kOX_YE0PBpk}}
+	-
