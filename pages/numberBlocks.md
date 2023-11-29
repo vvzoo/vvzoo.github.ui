@@ -7,6 +7,8 @@ alias:: 넘버블럭스
   | ((65669482-92e5-42dc-b822-5078b89cfd57)) | {{embed ((6566e76e-6c56-44bf-bf29-a0724a450630))}} |
   | ((6566949a-2245-4c17-bea9-7e3ddb0ad9f3)) | {{embed ((6566e786-1e5d-43a3-bbcb-e50d6a99aaac))}} |
   | ((656694bc-1ca4-4795-a458-b678d5493268)) | {{embed ((6566e7a8-ac86-436d-abda-fcce772b6ce7))}} |
+  | ((656694d5-8caf-42d4-bf9e-7ec269b63c93)) | {{embed ((656710dd-27fe-45ae-a7a9-49bf9f2e2af7))}} |
+  | ((656694e5-e43e-440f-ba4d-6295c3a32392)) |
 -
 - level1
 	- 일
@@ -24,6 +26,7 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 2
 	  id:: 65669360-4c48-4252-9469-937c56c0608b
+	  collapsed:: true
 		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
 		  id:: 6566e60c-ccf8-4681-8bc1-52444c3a668f
 	- 이
@@ -32,6 +35,7 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 3
 	  id:: 65669344-4ea3-4a00-9f57-e1553f6d1d7f
+	  collapsed:: true
 		- {{video https://youtu.be/25fB8RCtVAk?si=Y3Dc1192fD8ypgsp}}
 		  id:: 6566e694-0940-4d55-b704-7b6800283f5e
 	- 삼
@@ -40,6 +44,7 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 4
+	  collapsed:: true
 		- {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
 		  id:: 6566e76e-6c56-44bf-bf29-a0724a450630
 	- 일, 이, 삼!
@@ -48,6 +53,7 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
+	  collapsed:: true
 		- {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
 		  id:: 6566e786-1e5d-43a3-bbcb-e50d6a99aaac
 	- 사
@@ -56,6 +62,7 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 6
+	  collapsed:: true
 		- {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
 		  id:: 6566e7a8-ac86-436d-abda-fcce772b6ce7
 	- 오
@@ -63,12 +70,15 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 7
+	  id:: 656694d5-8caf-42d4-bf9e-7ec269b63c93
 		- {{video https://youtu.be/6QNilvPES6Y?si=MvaMwZsAuG7PEHk6}}
+		  id:: 656710dd-27fe-45ae-a7a9-49bf9f2e2af7
 	- 아기 돼지 세마리
 	  title:: 아기 돼지 세마리 Three Little Pigs
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 8
+	  id:: 656694e5-e43e-440f-ba4d-6295c3a32392
 		- {{video https://youtu.be/Y4ehi0wzmMU?si=zA2Et6a_g_lq53h9}}
 	- 우리가 간다
 	  title:: 우리가 간다
