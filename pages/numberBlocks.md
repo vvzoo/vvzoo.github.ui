@@ -97,4 +97,9 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 15
 	  source:: {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
--
+	- another one
+	  title:: 
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 16
+	  source:: {{video https://youtu.be/xnHUf9zqU_U}}

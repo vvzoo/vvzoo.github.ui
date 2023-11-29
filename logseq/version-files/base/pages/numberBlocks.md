@@ -91,4 +91,10 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 14
 	  source:: {{video https://youtu.be/PuG9ytTj-Jw?si=iOVntYbvgGlI5qtW}}
+	- 숨은 그림 찾기
+	  title:: 숨은 그림 찾기 hide and seeks
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 15
+	  source:: {{video https://youtu.be/bGb_rMxdlro?si=vATahIRzo40fr8ja}}
 	-
