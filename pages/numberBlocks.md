@@ -30,8 +30,9 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 1
 	  id:: 6563d233-51fa-4323-ac12-f833120cef44
-		- {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2&rel=0&}}
+		- {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2&rel=0&playsinline=0}}
 		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
+		-
 	- 다른 하나
 	  title:: 다른 하나 another one
 	  level:: 1
