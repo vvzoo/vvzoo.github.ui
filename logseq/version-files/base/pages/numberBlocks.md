@@ -164,4 +164,16 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 26
 	  source:: {{video https://youtu.be/B8NqSD43Xl8?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+	- 열 녹색 병
+	  title:: 열 녹색 병 ten green bottles
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 27
+	  source:: {{video https://youtu.be/bXJRDY3ofPY?si=LUle7nmi_2MHN02H}}
+	- 양을 세다
+	  title:: 양을 세다 counting sheep
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 28
+	  source:: {{video https://youtu.be/-cL2Bv65EGk?si=HLUDNz7NaRxLwd3j}}
 	-
