@@ -158,9 +158,16 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 25
 	  source:: {{video https://youtu.be/GMCFU8pP24I?si=4caN3P0kpDfbi7Ud}}
-	- title
+	- 일을 더하기
 	  title:: 일을 더하기 just add one
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 26
 	  source:: {{video https://youtu.be/B8NqSD43Xl8?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+	- 열 녹색 병
+	  title:: 열 녹색 병 ten green bottles
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 27
+	  source:: {{video https://youtu.be/bXJRDY3ofPY?si=LUle7nmi_2MHN02H}}
+	-
