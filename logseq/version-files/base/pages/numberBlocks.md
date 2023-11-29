@@ -146,3 +146,16 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 23
 	  source:: {{video https://youtu.be/FGQdZZn7YyI}}
+	- 구
+	  title:: 구 nine
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 24
+	  source:: {{video https://youtu.be/vtV0hYGj1rE?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+	- 십
+	  title:: 십 ten
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 25
+	  source:: {{video https://youtu.be/GMCFU8pP24I?si=4caN3P0kpDfbi7Ud}}
+	-

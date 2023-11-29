@@ -152,4 +152,15 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 24
 	  source:: {{video https://youtu.be/vtV0hYGj1rE?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
-	-
+	- 십
+	  title:: 십 ten
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 25
+	  source:: {{video https://youtu.be/GMCFU8pP24I?si=4caN3P0kpDfbi7Ud}}
+	- title
+	  title:: 일을 더하기 just add one
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 26
+	  source:: {{video https://youtu.be/B8NqSD43Xl8?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
