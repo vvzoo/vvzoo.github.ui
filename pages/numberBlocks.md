@@ -24,7 +24,7 @@ alias:: 넘버블럭스
 	  | ((6566b62b-430b-4a18-9b5e-73df4d10f593)) | {{embed ((65671120-5567-4c12-aba0-09a1bf7a86fb))}} |
 	  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) | {{embed ((65671125-9b1b-4fca-802f-568ca36f88a0))}} |
 - level 2
-	-
+	- | ((6566b6ee-fa22-46e8-96cc-072431bf3705)) | {{embed ((656712bd-048b-4b94-a4e8-9df6b70905ba))}} |
 - level1
   collapsed:: true
 	- 일
@@ -198,7 +198,9 @@ alias:: 넘버블럭스
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 21
+	  id:: 6566b6ee-fa22-46e8-96cc-072431bf3705
 		- {{video https://youtu.be/rB8oDH93u7g?si=8VMQkcrgCZXSxBf8}}
+		  id:: 656712bd-048b-4b94-a4e8-9df6b70905ba
 	- 칠
 	  title:: 칠 seven
 	  level:: 2
