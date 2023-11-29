@@ -140,9 +140,16 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 22
 	  source:: {{video https://youtu.be/GDk8GeKCRAg?si=dNl8usDSbXFX_Bvn}}
-	- title
-	  title:: 
+	- 팔
+	  title:: 팔 eight
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 23
 	  source:: {{video https://youtu.be/FGQdZZn7YyI}}
+	- 구
+	  title:: 구 nine
+	  level:: 2
+	  series:: numberBlocks
+	  order:: 24
+	  source:: {{video https://youtu.be/vtV0hYGj1rE?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+	-
