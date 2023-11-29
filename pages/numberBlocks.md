@@ -7,38 +7,37 @@ alias:: 넘버블럭스
   query-sort-desc:: false
   collapsed:: true
 - level1
-  collapsed:: true
-	- one
-	  title:: 일
+	- 일
+	  title:: 일 one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
 	  source:: {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2}}
-	- another one
-	  title:: 다른 하나
+	- 다른 하나
+	  title:: 다른 하나 another one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 2
 	  source:: {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf}}
-	- two
-	  title:: 이
+	- 이
+	  title:: 이 two
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 3
 	  source:: {{video https://youtu.be/25fB8RCtVAk?si=Y3Dc1192fD8ypgsp}}
-	- three
-	  title:: 삼
+	- 삼
+	  title:: 삼 three
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 4
 	  source:: {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
-	- one, two, three!
+	- 일, 이, 삼!one, two, three!
+	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
 	  title:: 일, 이, 삼!
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
 	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
-	  id:: 6566949a-2245-4c17-bea9-7e3ddb0ad9f3
 	- four
 	  title:: 사
 	  level:: 1
@@ -192,4 +191,3 @@ alias:: 넘버블럭스
 	  order:: 30
 	  source:: {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 	-
--
