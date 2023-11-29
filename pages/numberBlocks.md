@@ -73,9 +73,16 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 11
 	  source:: {{video https://youtu.be/g3y1-CsKit0?si=3q1KHYP2PuQ_SvOe}}
-	- another one
-	  title:: 
+	- 나의 모든 것
+	  title:: 나의 모든 것
 	  level:: 1
 	  series:: numberBlocks
-	  order:: 
-	  source::{{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
+	  order:: 12
+	  source:: {{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
+	- 끔찍한 숫자 이들
+	  title:: 끔찍한 숫자 이들
+	  level:: 1
+	  series:: numberBlocks
+	  order:: 13
+	  source:: {{video https://youtu.be/pc-rj9aIM_8?si=j3QvpaSAHeQiS1NE}}
+	-
