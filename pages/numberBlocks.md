@@ -1,6 +1,7 @@
 alias:: 넘버블럭스
 
 - level 1
+  collapsed:: true
 	- | title | source |
 	  | ((6563d233-51fa-4323-ac12-f833120cef44)) | {{embed ((6566e5e9-3b36-4263-bfe2-b679e7c29825))}} |
 	  | ((65669360-4c48-4252-9469-937c56c0608b)) | {{embed ((6566e60c-ccf8-4681-8bc1-52444c3a668f))}} |
@@ -22,8 +23,10 @@ alias:: 넘버블럭스
 	  | ((a54c60ce-17f7-418d-9311-797db78af4f9)) | {{embed ((6567111b-2671-454c-8324-0d0979000aaf))}} |
 	  | ((6566b62b-430b-4a18-9b5e-73df4d10f593)) | {{embed ((65671120-5567-4c12-aba0-09a1bf7a86fb))}} |
 	  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) | {{embed ((65671125-9b1b-4fca-802f-568ca36f88a0))}} |
--
+- level 2
+	-
 - level1
+  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
@@ -190,7 +193,6 @@ alias:: 넘버블럭스
 		- {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
 		  id:: 65671125-9b1b-4fca-802f-568ca36f88a0
 - level2
-  collapsed:: true
 	- 육
 	  title:: 육 six
 	  level:: 2
