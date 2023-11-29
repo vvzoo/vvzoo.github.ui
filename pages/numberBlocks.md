@@ -8,7 +8,7 @@ alias:: 넘버블럭스
   collapsed:: true
 - series
 	- one
-	  title:: one
+	  title:: 일
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
@@ -26,23 +26,23 @@ alias:: 넘버블럭스
 	  order:: 3
 	  source:: {{video https://youtu.be/25fB8RCtVAk?si=Y3Dc1192fD8ypgsp}}
 	- three
-	  title:: three
+	  title:: 삼
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 4
-	  source:: {{video https://youtu.be/o1S1mZe5wqg}}
+	  source:: {{video https://youtu.be/DZmk-G22Yt0?si=MpIeSlTxB76-bfjx}}
 	- one, two, three!
-	  title:: one, two, three!
+	  title:: 일, 이, 삼!
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 5
-	  source:: {{video https://youtu.be/Hj66zCFDf4w}}
+	  source:: {{video https://youtu.be/9m1UmHtQaw4?si=zP2rQi8syNODDjsx}}
 	- four
-	  title:: four
+	  title:: 사
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 6
-	  source:: {{video https://youtu.be/Reras37ZRZo}}
+	  source:: {{video https://youtu.be/dkKmnub8GlU?si=4ZlEhpZAD4tfe67J}}
 	- five
 	  title:: five
 	  level:: 1
