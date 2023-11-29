@@ -11,7 +11,10 @@ alias:: 넘버블럭스
   | ((656694e5-e43e-440f-ba4d-6295c3a32392)) | {{embed ((656710e4-0ff8-4b25-a10c-1d154f88762d))}} |
   | ((6566b4a3-6119-44a7-a3a6-f949be8d74fc)) | {{embed ((656710eb-5aaf-4d15-8405-558329b2d08c))}} |
   | ((6566b4c3-f5b3-4f2c-b6b2-61eaef365ff3)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
-  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5)) | {{embed ((656710f2-75fe-473b-b6a1-eea66dabe233))}} |
+  | ((6566b4de-9580-43ed-9404-f7931dc0a6e5)) | {{embed ((656710f8-4ee9-4f55-9b7d-a00f878b9f0c))}} |
+  | ((6566b4f5-3de1-4b86-a643-b52bd132f409)) | {{embed ((656710fc-c926-4bcf-b21f-43ed07b28d94))}} |
+  | ((6566b50e-1f50-43ce-8cab-3e63782ec7df)) | {{embed ((65671102-017b-44d7-b7a5-8cacf6583c20))}} |
+  | ((6566b549-2883-45ee-ad52-ce1edbdfe4c7)) | |
 -
 - level1
 	- 일
@@ -113,19 +116,25 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 12
+	  id:: 6566b4f5-3de1-4b86-a643-b52bd132f409
 		- {{video https://youtu.be/6jDH3KRafXE?si=tM9iCGTzf8GdP2Uz}}
+		  id:: 656710fc-c926-4bcf-b21f-43ed07b28d94
 	- 끔찍한 숫자 이들
 	  title:: 끔찍한 숫자 이들 the terrible twos
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 13
+	  id:: 6566b50e-1f50-43ce-8cab-3e63782ec7df
 		- {{video https://youtu.be/pc-rj9aIM_8?si=j3QvpaSAHeQiS1NE}}
+		  id:: 65671102-017b-44d7-b7a5-8cacf6583c20
 	- 구멍
+	  id:: 6566b549-2883-45ee-ad52-ce1edbdfe4c7
 	  title:: 구멍 holes
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 14
-	  source:: {{video https://youtu.be/PuG9ytTj-Jw?si=iOVntYbvgGlI5qtW}}
+		- {{video https://youtu.be/PuG9ytTj-Jw?si=iOVntYbvgGlI5qtW}}
+		  id:: 6567121d-09fe-4881-8cac-81ef05bb444c
 	- 숨은 그림 찾기
 	  title:: 숨은 그림 찾기 hide and seeks
 	  level:: 1
