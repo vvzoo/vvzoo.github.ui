@@ -1,8 +1,8 @@
 alias:: 넘버블럭스
 
-- {{query (and (property :series "numberBlocks") (not))}}
+- {{query (and (property :series "numberBlocks") (not [[template]]))}}
   query-table:: true
-  query-properties:: [:title :source :order]
+  query-properties:: [:title :source]
   query-sort-by:: order
   query-sort-desc:: false
 - level1
