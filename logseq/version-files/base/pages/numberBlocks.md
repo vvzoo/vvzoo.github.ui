@@ -1,8 +1,13 @@
 alias:: 넘버블럭스
 
+- {{query (property :series "numberBlocks")}}
 - one
   title:: one
   level:: 1
   source:: {{video https://youtu.be/yajPLKqszFA}}
-- two
+  series:: numberBlocks
+- another one
+  title:: another one
+  level:: 1
+  source:: {{video https://youtu.be/DD9jLCIfOxo}}
 -
