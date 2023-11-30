@@ -5,6 +5,7 @@ alias:: 바다탐험대 옥토넛
 	- 애니메이션, 바다 배경 | 에피소드 104개
 	  #왓챠
 	  https://watcha.com/ko-KR/contents/tPVyaNR
+	- https://www.netflix.com/kr/title/80020935
 	- | 긴집게발게 | {{video https://youtu.be/wvx-J4mL4kQ?si=LFGJ2lkPpht5cuaL}} |
 	  | 고래상어 | {{video https://youtu.be/aDMXe4038Kc?si=isjiphukjluqDKiN}} |
 	  | 조류 대탈출 | {{video https://youtu.be/dJq1wHTU-do?si=kqlQFbz7oSSVcyGr}} |
