@@ -46,5 +46,11 @@ alias:: 바다탐험대 옥토넛
 	  |[장어 대이동](https://watcha.com/watch/exGQmrl?mappingSource=basic)||
 	  |[돌고래 구조작전](https://watcha.com/watch/e7e9g0B?mappingSource=basic)||
 	  |[바다 이구아나](https://watcha.com/watch/e7PymKN?mappingSource=basic)||
+	  |[투명상어](https://watcha.com/watch/e7gKnGa?mappingSource=basic)||
+	  |[해적 앵무새고기](https://watcha.com/watch/eq94An1?mappingSource=basic)||
+	  |[전기가오리](https://watcha.com/watch/exR18Kz?mappingSource=basic)||
+	  |[오징어의 변신술](https://watcha.com/watch/exEOAD0?mappingSource=basic)||
+	  |[길 잃은 레몬상어](https://watcha.com/watch/eqbAGMa?mappingSource=basic)||
+	  |||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
