@@ -23,5 +23,11 @@ alias:: 바다탐험대 옥토넛
 	  |[미끈미끈 해삼](https://watcha.com/watch/eYd1Pjy?mappingSource=basic)||
 	  |[거대 소용돌이](https://watcha.com/watch/exJnAkA?mappingSource=basic)||
 	  |[심해 암흑층](https://watcha.com/watch/e7XXmZK?mappingSource=basic)||
+	  |[대왕고래](https://watcha.com/watch/e7WrdKQ?mappingSource=basic)||
+	  |[딱총새우](https://watcha.com/watch/eYlJaR9?mappingSource=basic)||
+	  |[켈프 숲 구조작전](https://watcha.com/watch/eqLW4dE?mappingSource=basic)||
+	  |[해마 이야기](https://watcha.com/watch/ex5b3JK?mappingSource=basic)||
+	  |[말미잘의 공격](https://watcha.com/watch/expk6Mn?mappingSource=basic)||
+	  |||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
