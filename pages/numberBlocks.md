@@ -25,7 +25,9 @@ alias:: 넘버블럭스
 - level 2
 	- | ((6566b6ee-fa22-46e8-96cc-072431bf3705)) | ((656712bd-048b-4b94-a4e8-9df6b70905ba)) |
 	  | ((6566b75f-1702-4ac5-a031-d487d9bc3ee6)) | ((656712c2-0e56-43a8-9aa9-511c39b9fd58)) |
-	  |((팔))||
+	  | ((6566b780-f923-4fb7-95fc-63c2726cb519)) | ((656712c7-e353-49a5-b242-daca3e0ef2a7))|
+	  | ((6566b7bb-d664-4f65-8735-65cc66d2c323)) | ((656712cd-0842-485f-b77e-2c7275adffd5)) |
+	  | ((6566b7cd-9118-4ec1-9119-edde3ec86b0c)) |
 - level1
   collapsed:: true
 	- 일
@@ -215,19 +217,25 @@ alias:: 넘버블럭스
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 23
+	  id:: 6566b780-f923-4fb7-95fc-63c2726cb519
 		- {{video https://youtu.be/FGQdZZn7YyI}}
+		  id:: 656712c7-e353-49a5-b242-daca3e0ef2a7
 	- 구
 	  title:: 구 nine
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 24
+	  id:: 6566b7bb-d664-4f65-8735-65cc66d2c323
 		- {{video https://youtu.be/vtV0hYGj1rE?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+		  id:: 656712cd-0842-485f-b77e-2c7275adffd5
 	- 십
 	  title:: 십 ten
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 25
+	  id:: 6566b7cd-9118-4ec1-9119-edde3ec86b0c
 		- {{video https://youtu.be/GMCFU8pP24I?si=4caN3P0kpDfbi7Ud}}
+		  id:: 656712d6-fd47-4480-9cf8-8fd88971fde0
 	- 일을 더하기
 	  title:: 일을 더하기 just add one
 	  level:: 2
