@@ -10,3 +10,4 @@ alias:: 바다탐험대 옥토넛
 	  | 고래상어 | https://watcha.com/watch/exR18lz?mappingSource=basic |
 	  | 조류 대탈출 | {{video https://youtu.be/dJq1wHTU-do?si=kqlQFbz7oSSVcyGr}} |
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
+-
