@@ -69,7 +69,7 @@ alias:: 바다탐험대 옥토넛
 		  series:: octonauts
 		  season:: 1
 		  order:: 1
-		  image:: https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405a30036/thumbnail-hq/0020.jpg?sig=7c034081bcbe57590d739b286f160246b9f0a8a87500fe2109833a6464dd0b9b
+		  image:: ![](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405a30036/thumbnail-hq/0020.jpg?sig=7c034081bcbe57590d739b286f160246b9f0a8a87500fe2109833a6464dd0b9b){:height 195, :width 326}
 		- 고래상어
 		  title:: 고래상어
 		  source:: https://watcha.com/watch/exR18lz
