@@ -9,6 +9,51 @@ alias:: 바다탐험대 옥토넛
 	  | [조류 대탈출](https://watcha.com/watch/exEOAR0?mappingSource=basic) | ![](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405b70038/thumbnail-hq/0044.jpg?sig=16c1c98d82331a0af7b1273e352064946622774776625cba7c61c09c787c0d93){:width 300} |
 	  | [바다코끼리 대장](https://watcha.com/watch/eqbAG3a) ||
 	  | [해저폭풍](https://watcha.com/watch/ex3w3Gb?mappingSource=basic) ||
-	  |||
+	  |[대왕오징어](https://watcha.com/watch/e7Mjz8w?mappingSource=basic)||
+	  |[날치](https://watcha.com/watch/exaaZbO?mappingSource=basic)||
+	  |[일각고래](https://watcha.com/watch/eqja3D5?mappingSource=basic)||
+	  |[비밀지도](https://watcha.com/watch/eY0g0mj?mappingSource=basic)||
+	  |[게 그리고 성게](https://watcha.com/watch/exvN6W3?mappingSource=basic)||
+	  |[범고래](https://watcha.com/watch/eYnZ2v9?mappingSource=basic)||
+	  |[블로우피시 삼형제](https://watcha.com/watch/eY123nV?mappingSource=basic)||
+	  |[혹등고래](https://watcha.com/watch/e7rrVjr?mappingSource=basic)||
+	  |[바다벌레](https://watcha.com/watch/exz5NLy?mappingSource=basic)||
+	  |[거대한 해초 숲](https://watcha.com/watch/eqKgkOQ?mappingSource=basic)||
+	  |[소라게](https://watcha.com/watch/exDzn4L?mappingSource=basic)||
+	  |[미끈미끈 해삼](https://watcha.com/watch/eYd1Pjy?mappingSource=basic)||
+	  |[거대 소용돌이](https://watcha.com/watch/exJnAkA?mappingSource=basic)||
+	  |[심해 암흑층](https://watcha.com/watch/e7XXmZK?mappingSource=basic)||
+	  |[대왕고래](https://watcha.com/watch/e7WrdKQ?mappingSource=basic)||
+	  |[딱총새우](https://watcha.com/watch/eYlJaR9?mappingSource=basic)||
+	  |[켈프 숲 구조작전](https://watcha.com/watch/eqLW4dE?mappingSource=basic)||
+	  |[해마 이야기](https://watcha.com/watch/ex5b3JK?mappingSource=basic)||
+	  |[말미잘의 공격](https://watcha.com/watch/expk6Mn?mappingSource=basic)||
+	  |[바다의 제트기 돛새치](https://watcha.com/watch/eqQQM4n?mappingSource=basic)||
+	  |[흡혈 오징어](https://watcha.com/watch/eq8OJ22?mappingSource=basic)||
+	  |[배고픈 동갈방어](https://watcha.com/watch/e74lVk2?mappingSource=basic)||
+	  |[흰고래](https://watcha.com/watch/eqBO4rQ?mappingSource=basic)||
+	  |[길 잃은 불가사리](https://watcha.com/watch/e7VkrNo?mappingSource=basic)||
+	  |[거대한 빗해파리](https://watcha.com/watch/e7mV0Ew?mappingSource=basic)||
+	  |[쿠키커터상어](https://watcha.com/watch/eqOkMJV?mappingSource=basic)||
+	  |[해파리 꽃](https://watcha.com/watch/eqNQyKR?mappingSource=basic)||
+	  |[산갈치](https://watcha.com/watch/eqyLK6G?mappingSource=basic)||
+	  |[아기 돌고래](https://watcha.com/watch/eY2bVn0?mappingSource=basic)||
+	  |[통안어](https://watcha.com/watch/eYA8npy?mappingSource=basic)||
+	  |[먹장어](https://watcha.com/watch/exoVJ3P?mappingSource=basic)||
+	  |[범고래](https://watcha.com/watch/eYw3J1D?mappingSource=basic)||
+	  |[코끼리바다표범](https://watcha.com/watch/eqkJa9N?mappingSource=basic)||
+	  |[정어리 떼](https://watcha.com/watch/eqZA3ev?mappingSource=basic)||
+	  |[장어 대이동](https://watcha.com/watch/exGQmrl?mappingSource=basic)||
+	  |[돌고래 구조작전](https://watcha.com/watch/e7e9g0B?mappingSource=basic)||
+	  |[바다 이구아나](https://watcha.com/watch/e7PymKN?mappingSource=basic)||
+	  |[투명상어](https://watcha.com/watch/e7gKnGa?mappingSource=basic)||
+	  |[해적 앵무새고기](https://watcha.com/watch/eq94An1?mappingSource=basic)||
+	  |[전기가오리](https://watcha.com/watch/exR18Kz?mappingSource=basic)||
+	  |[오징어의 변신술](https://watcha.com/watch/exEOAD0?mappingSource=basic)||
+	  |[길 잃은 레몬상어](https://watcha.com/watch/eqbAGMa?mappingSource=basic)||
+	  |[후무후무누쿠누쿠아푸아아](https://watcha.com/watch/ex3w3kb?mappingSource=basic)||
+	  |[거대한 거미게](https://watcha.com/watch/e7Mjzkw?mappingSource=basic)||
+	  |[펭귄 3종 경기](https://watcha.com/watch/exaaZ3O?mappingSource=basic)||
+	  |[크리스마스 구조작전!](https://watcha.com/watch/eqja3g5?mappingSource=basic)||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -

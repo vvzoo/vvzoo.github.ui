@@ -51,6 +51,10 @@ alias:: 바다탐험대 옥토넛
 	  |[전기가오리](https://watcha.com/watch/exR18Kz?mappingSource=basic)||
 	  |[오징어의 변신술](https://watcha.com/watch/exEOAD0?mappingSource=basic)||
 	  |[길 잃은 레몬상어](https://watcha.com/watch/eqbAGMa?mappingSource=basic)||
-	  |||
+	  |[후무후무누쿠누쿠아푸아아](https://watcha.com/watch/ex3w3kb?mappingSource=basic)||
+	  |[거대한 거미게](https://watcha.com/watch/e7Mjzkw?mappingSource=basic)||
+	  |[펭귄 3종 경기](https://watcha.com/watch/exaaZ3O?mappingSource=basic)||
+	  |[크리스마스 구조작전!](https://watcha.com/watch/eqja3g5?mappingSource=basic)||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
+- 소스
 -
