@@ -3,8 +3,8 @@ alias:: 바다탐험대 옥토넛
 - ![2-qRUEct36opgnCydB0DVmu9OkZNU7YaDLk1UNPfQcuqT6MUNG8NDgfTHP3FPyeXcEerTqYvrzw3flUnzl8jVpnsjk4OeaKG2WUc24mvO_CibK__S8lNH9hSeb4kY_ynFY2Mi6tDu7ki-J7OJFX1fw.webp](../assets/2-qRUEct36opgnCydB0DVmu9OkZNU7YaDLk1UNPfQcuqT6MUNG8NDgfTHP3FPyeXcEerTqYvrzw3flUnzl8jVpnsjk4OeaKG2WUc24mvO_CibK_S8lNH9hSeb4kY_ynFY2Mi6tDu7ki-J7OJFX1fw_1698208265190_0.webp)
 - 시즌1
 	- https://watcha.com/ko-KR/contents/tPVyaNR
-	- {{query (property :series "octonauts") (sort-by property:order asc)}}
-	  query-sort-by:: season, order
+	- {{query (and (property :series "octonauts") (property :season "1"))}}
+	  query-sort-by:: order
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:title :source :image :season :order]
