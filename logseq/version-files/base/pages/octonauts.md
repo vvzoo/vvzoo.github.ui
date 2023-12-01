@@ -6,6 +6,6 @@ alias:: 바다탐험대 옥토넛
 	- id:: 6568c9e6-dd24-4f12-8ab1-bd968ebb0dfd
 	  | [긴집게발게](https://watcha.com/watch/eq94AE1) | ![긴집게발게](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405a30036/thumbnail-hq/0020.jpg?sig=7c034081bcbe57590d739b286f160246b9f0a8a87500fe2109833a6464dd0b9b){:width 300} |
 	  | [고래상어](https://watcha.com/watch/exR18lz) | ![](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405ad0037/thumbnail-hq/0054.jpg?sig=c794e45f93114ca8361d0419859707b05dacc43584560c6be1ff398d1dde7bc6){:width 300} |
-	- [조류 대탈출](https://watcha.com/watch/exEOAR0?mappingSource=basic)
+	  | [조류 대탈출](https://watcha.com/watch/exEOAR0?mappingSource=basic) | ![](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405b70038/thumbnail-hq/0044.jpg?sig=16c1c98d82331a0af7b1273e352064946622774776625cba7c61c09c787c0d93){:width 300} |
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
