@@ -28,6 +28,11 @@ alias:: 바다탐험대 옥토넛
 	  |[켈프 숲 구조작전](https://watcha.com/watch/eqLW4dE?mappingSource=basic)||
 	  |[해마 이야기](https://watcha.com/watch/ex5b3JK?mappingSource=basic)||
 	  |[말미잘의 공격](https://watcha.com/watch/expk6Mn?mappingSource=basic)||
-	  |||
+	  |[바다의 제트기 돛새치](https://watcha.com/watch/eqQQM4n?mappingSource=basic)||
+	  |[흡혈 오징어](https://watcha.com/watch/eq8OJ22?mappingSource=basic)||
+	  |[배고픈 동갈방어](https://watcha.com/watch/e74lVk2?mappingSource=basic)||
+	  |[흰고래](https://watcha.com/watch/eqBO4rQ?mappingSource=basic)||
+	  |[길 잃은 불가사리](https://watcha.com/watch/e7VkrNo?mappingSource=basic)||
+	  |[거대한 빗해파리](https://watcha.com/watch/e7mV0Ew?mappingSource=basic)||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
