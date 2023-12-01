@@ -34,5 +34,12 @@ alias:: 바다탐험대 옥토넛
 	  |[흰고래](https://watcha.com/watch/eqBO4rQ?mappingSource=basic)||
 	  |[길 잃은 불가사리](https://watcha.com/watch/e7VkrNo?mappingSource=basic)||
 	  |[거대한 빗해파리](https://watcha.com/watch/e7mV0Ew?mappingSource=basic)||
+	  |[쿠키커터상어](https://watcha.com/watch/eqOkMJV?mappingSource=basic)||
+	  |[해파리 꽃](https://watcha.com/watch/eqNQyKR?mappingSource=basic)||
+	  |[산갈치](https://watcha.com/watch/eqyLK6G?mappingSource=basic)||
+	  |[아기 돌고래](https://watcha.com/watch/eY2bVn0?mappingSource=basic)||
+	  |[통안어](https://watcha.com/watch/eYA8npy?mappingSource=basic)||
+	  |[먹장어](https://watcha.com/watch/exoVJ3P?mappingSource=basic)||
+	  |||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
