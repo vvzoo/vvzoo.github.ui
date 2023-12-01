@@ -40,6 +40,11 @@ alias:: 바다탐험대 옥토넛
 	  |[아기 돌고래](https://watcha.com/watch/eY2bVn0?mappingSource=basic)||
 	  |[통안어](https://watcha.com/watch/eYA8npy?mappingSource=basic)||
 	  |[먹장어](https://watcha.com/watch/exoVJ3P?mappingSource=basic)||
-	  |||
+	  |[범고래](https://watcha.com/watch/eYw3J1D?mappingSource=basic)||
+	  |[코끼리바다표범](https://watcha.com/watch/eqkJa9N?mappingSource=basic)||
+	  |[정어리 떼](https://watcha.com/watch/eqZA3ev?mappingSource=basic)||
+	  |[장어 대이동](https://watcha.com/watch/exGQmrl?mappingSource=basic)||
+	  |[돌고래 구조작전](https://watcha.com/watch/e7e9g0B?mappingSource=basic)||
+	  |[바다 이구아나](https://watcha.com/watch/e7PymKN?mappingSource=basic)||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
