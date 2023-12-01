@@ -5,7 +5,7 @@ alias:: 바다탐험대 옥토넛
 	- https://watcha.com/ko-KR/contents/tPVyaNR
 	- {{query (property :series "octonauts")}}
 	  query-sort-desc:: false
-	  query-properties:: [:title :source :order :image :season]
+	  query-properties:: [:title :source :image]
 	  query-table:: true
 	  query-sort-by:: season, order
 	- id:: 6568c9e6-dd24-4f12-8ab1-bd968ebb0dfd
