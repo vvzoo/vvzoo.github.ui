@@ -23,8 +23,9 @@ alias:: 넘버블럭스
 	  | ((6566b62b-430b-4a18-9b5e-73df4d10f593)) | ((65671120-5567-4c12-aba0-09a1bf7a86fb)) |
 	  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) | ((65671125-9b1b-4fca-802f-568ca36f88a0)) |
 - level 2
-  collapsed:: true
-	- | ((6566b6ee-fa22-46e8-96cc-072431bf3705)) | {{embed ((656712bd-048b-4b94-a4e8-9df6b70905ba))}} |
+	- | ((6566b6ee-fa22-46e8-96cc-072431bf3705)) | ((656712bd-048b-4b94-a4e8-9df6b70905ba)) |
+	  | ((6566b75f-1702-4ac5-a031-d487d9bc3ee6)) | ((656712c2-0e56-43a8-9aa9-511c39b9fd58)) |
+	  |((팔))||
 - level1
   collapsed:: true
 	- 일
@@ -206,7 +207,9 @@ alias:: 넘버블럭스
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 22
+	  id:: 6566b75f-1702-4ac5-a031-d487d9bc3ee6
 		- {{video https://youtu.be/GDk8GeKCRAg?si=dNl8usDSbXFX_Bvn}}
+		  id:: 656712c2-0e56-43a8-9aa9-511c39b9fd58
 	- 팔
 	  title:: 팔 eight
 	  level:: 2
