@@ -67,7 +67,7 @@ alias:: 바다탐험대 옥토넛
 		  title:: 긴집게발게
 		  source:: https://watcha.com/watch/eq94AE1
 		  series:: octonauts
-		  season:: 2
+		  season:: 1
 		  order:: 1
 		  image:: https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405a30036/thumbnail-hq/0020.jpg?sig=7c034081bcbe57590d739b286f160246b9f0a8a87500fe2109833a6464dd0b9b
 		- 고래상어
@@ -77,3 +77,9 @@ alias:: 바다탐험대 옥토넛
 		  season:: 1
 		  order:: 2
 		  image:: https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405ad0037/thumbnail-hq/0054.jpg?sig=c794e45f93114ca8361d0419859707b05dacc43584560c6be1ff398d1dde7bc6
+		- 조류 대탈출
+		  title:: 조류 대탈출
+		  source:: https://watcha.com/watch/exEOAR0
+		  series:: octonauts
+		  season:: 1
+		  order:: 3

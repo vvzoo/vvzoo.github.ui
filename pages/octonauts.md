@@ -5,7 +5,7 @@ alias:: 바다탐험대 옥토넛
 	- https://watcha.com/ko-KR/contents/tPVyaNR
 	- {{query (property :series "octonauts")}}
 	  query-sort-desc:: false
-	  query-properties:: [:title :source :image]
+	  query-properties:: [:title :source :image :season :order]
 	  query-table:: true
 	  query-sort-by:: season, order
 	- id:: 6568c9e6-dd24-4f12-8ab1-bd968ebb0dfd
@@ -77,9 +77,9 @@ alias:: 바다탐험대 옥토넛
 		  season:: 1
 		  order:: 2
 		  image:: https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405ad0037/thumbnail-hq/0054.jpg?sig=c794e45f93114ca8361d0419859707b05dacc43584560c6be1ff398d1dde7bc6
-	- 조류 대탈출
-	  title:: 조류 대탈출
-	  source:: https://watcha.com/watch/exEOAR0
-	  series:: octonauts
-	  season:: 1
-	  order:: 3
+		- 조류 대탈출
+		  title:: 조류 대탈출
+		  source:: https://watcha.com/watch/exEOAR0
+		  series:: octonauts
+		  season:: 1
+		  order:: 3
