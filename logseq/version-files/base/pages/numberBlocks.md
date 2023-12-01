@@ -28,7 +28,11 @@ alias:: 넘버블럭스
 	  | ((6566b780-f923-4fb7-95fc-63c2726cb519)) | ((656712c7-e353-49a5-b242-daca3e0ef2a7))|
 	  | ((6566b7bb-d664-4f65-8735-65cc66d2c323)) | ((656712cd-0842-485f-b77e-2c7275adffd5)) |
 	  | ((6566b7cd-9118-4ec1-9119-edde3ec86b0c)) | ((656712d6-fd47-4480-9cf8-8fd88971fde0)) |
-	  | ((6566b7ef-5484-4c60-9a4c-2e70f46f4a35)) |
+	  | ((6566b7ef-5484-4c60-9a4c-2e70f46f4a35)) | ((656712db-731c-4fe0-ad6a-328a6b70482d)) |
+	  | ((6566b813-4a39-4ad6-b63f-07b44eeda426)) | ((656712e0-3842-41d6-b769-40909b967396)) |
+	  | ((6566b842-206a-4742-8b16-ae5b5f67333c)) | ((656712e5-0c89-47df-a2d8-b9f647a29e78)) |
+	  | ((6566b865-b97f-4f5e-90ed-f78f24a7a4af)) | ((656712ea-dba1-404c-9812-8c6d8e326932)) |
+	  | ((6566b8bd-041f-41c0-8d3f-d8a3af3aec1f)) | ((656712ef-c30d-4dc8-a9ec-4400133337a2)) |
 - level1
   collapsed:: true
 	- 일
@@ -197,6 +201,7 @@ alias:: 넘버블럭스
 		- {{video https://youtu.be/34P-sdlOv38?si=-gfj4tBrAfq5SfPj}}
 		  id:: 65671125-9b1b-4fca-802f-568ca36f88a0
 - level2
+  collapsed:: true
 	- 육
 	  title:: 육 six
 	  level:: 2
@@ -244,29 +249,37 @@ alias:: 넘버블럭스
 	  order:: 26
 	  id:: 6566b7ef-5484-4c60-9a4c-2e70f46f4a35
 		- {{video https://youtu.be/B8NqSD43Xl8?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+		  id:: 656712db-731c-4fe0-ad6a-328a6b70482d
 	- 열 녹색 병
 	  title:: 열 녹색 병 ten green bottles
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 27
+	  id:: 6566b813-4a39-4ad6-b63f-07b44eeda426
 		- {{video https://youtu.be/bXJRDY3ofPY?si=LUle7nmi_2MHN02H}}
+		  id:: 656712e0-3842-41d6-b769-40909b967396
 	- 양을 세다
 	  title:: 양을 세다 counting sheep
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 28
+	  id:: 6566b842-206a-4742-8b16-ae5b5f67333c
 		- {{video https://youtu.be/-cL2Bv65EGk?si=HLUDNz7NaRxLwd3j}}
+		  id:: 656712e5-0c89-47df-a2d8-b9f647a29e78
 	- 골칫덩어리
 	  title:: 골칫덩어리 double trouble
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 29
+	  id:: 6566b865-b97f-4f5e-90ed-f78f24a7a4af
 		- {{video https://youtu.be/AvISIYJW7Q4?list=PLfIvbB3eBmBpKHT8jYajIcRqGLKd5YNeR}}
+		  id:: 656712ea-dba1-404c-9812-8c6d8e326932
 	- 숫자 삼이 세 셋트
 	  title:: 숫자 삼이 세 셋트 the three threes
 	  level:: 2
 	  series:: numberBlocks
 	  order:: 30
+	  id:: 6566b8bd-041f-41c0-8d3f-d8a3af3aec1f
 		- {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
+		  id:: 656712ef-c30d-4dc8-a9ec-4400133337a2
 	-
--
