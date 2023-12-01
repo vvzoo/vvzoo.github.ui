@@ -11,6 +11,12 @@ alias:: 바다탐험대 옥토넛
 	  | [해저폭풍](https://watcha.com/watch/ex3w3Gb?mappingSource=basic) ||
 	  |[대왕오징어](https://watcha.com/watch/e7Mjz8w?mappingSource=basic)||
 	  |[날치](https://watcha.com/watch/exaaZbO?mappingSource=basic)||
+	  |[일각고래](https://watcha.com/watch/eqja3D5?mappingSource=basic)||
+	  |[비밀지도](https://watcha.com/watch/eY0g0mj?mappingSource=basic)||
+	  |[게 그리고 성게](https://watcha.com/watch/exvN6W3?mappingSource=basic)||
+	  |[범고래](https://watcha.com/watch/eYnZ2v9?mappingSource=basic)||
+	  |[블로우피시 삼형제](https://watcha.com/watch/eY123nV?mappingSource=basic)||
+	  |[혹등고래](https://watcha.com/watch/e7rrVjr?mappingSource=basic)||
 	  |||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 -
