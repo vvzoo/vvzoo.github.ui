@@ -5,9 +5,9 @@ alias:: 바다탐험대 옥토넛
 	- https://watcha.com/ko-KR/contents/tPVyaNR
 	- {{query (property :series "octonauts")}}
 	  query-table:: true
-	  query-properties:: [:title :source :order :image]
-	  query-sort-by:: order
 	  query-sort-desc:: false
+	  query-properties:: [:title :source :order :image]
+	  query-sort-by:: series, order
 	- id:: 6568c9e6-dd24-4f12-8ab1-bd968ebb0dfd
 	  | [긴집게발게](https://watcha.com/watch/eq94AE1) | ![긴집게발게](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405a30036/thumbnail-hq/0020.jpg?sig=7c034081bcbe57590d739b286f160246b9f0a8a87500fe2109833a6464dd0b9b){:width 300} |
 	  | [고래상어](https://watcha.com/watch/exR18lz) | ![](https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405ad0037/thumbnail-hq/0054.jpg?sig=c794e45f93114ca8361d0419859707b05dacc43584560c6be1ff398d1dde7bc6){:width 300} |
@@ -70,3 +70,6 @@ alias:: 바다탐험대 옥토넛
 		  season:: 1
 		  order:: 1
 		  image:: https://an2-img.amz.wtchn.net/image/vod/c_fill_auto,q_70,w_1280,h_720/2c9f98d76e63f0f8016e64f405a30036/thumbnail-hq/0020.jpg?sig=7c034081bcbe57590d739b286f160246b9f0a8a87500fe2109833a6464dd0b9b
+			- 고래상어
+			  title:: 고래상어
+			  source::
