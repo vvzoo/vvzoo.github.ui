@@ -62,6 +62,7 @@ alias:: 바다탐험대 옥토넛
 	  |[크리스마스 구조작전!](https://watcha.com/watch/eqja3g5?mappingSource=basic)||
 - [콰지]([[바다 탐험대 옥토넛/콰지]])
 - 소스
+  collapsed:: true
 	- 시즌1
 		- 긴집게발게
 		  title:: 긴집게발게
