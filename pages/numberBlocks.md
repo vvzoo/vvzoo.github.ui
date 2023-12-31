@@ -24,6 +24,7 @@ alias:: 넘버블럭스
 	  | ((6566b648-0029-4d0a-9cf6-d1b227181756)) | ((65671125-9b1b-4fca-802f-568ca36f88a0)) |
 	-
 - level 2
+  collapsed:: true
 	- | ((6566b6ee-fa22-46e8-96cc-072431bf3705)) | ((656712bd-048b-4b94-a4e8-9df6b70905ba)) |
 	  | ((6566b75f-1702-4ac5-a031-d487d9bc3ee6)) | ((656712c2-0e56-43a8-9aa9-511c39b9fd58)) |
 	  | ((6566b780-f923-4fb7-95fc-63c2726cb519)) | ((656712c7-e353-49a5-b242-daca3e0ef2a7))|
@@ -35,6 +36,7 @@ alias:: 넘버블럭스
 	  | ((6566b865-b97f-4f5e-90ed-f78f24a7a4af)) | ((656712ea-dba1-404c-9812-8c6d8e326932)) |
 	  | ((6566b8bd-041f-41c0-8d3f-d8a3af3aec1f)) | ((656712ef-c30d-4dc8-a9ec-4400133337a2)) |
 - level1
+  collapsed:: true
 	- 일
 	  id:: 6563d233-51fa-4323-ac12-f833120cef44
 	  title:: 일 one
@@ -57,7 +59,6 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 2
 	  id:: 65669360-4c48-4252-9469-937c56c0608b
-	  collapsed:: true
 		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf&playlist=pAFkRHIz-og&rel=0}}
 		  id:: 6566e60c-ccf8-4681-8bc1-52444c3a668f
 	- 이
