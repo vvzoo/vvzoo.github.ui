@@ -37,13 +37,14 @@ alias:: 넘버블럭스
 	  | ((6566b865-b97f-4f5e-90ed-f78f24a7a4af)) | ((656712ea-dba1-404c-9812-8c6d8e326932)) |
 	  | ((6566b8bd-041f-41c0-8d3f-d8a3af3aec1f)) | ((656712ef-c30d-4dc8-a9ec-4400133337a2)) |
 - level1
+  collapsed:: true
 	- 일
 	  id:: 6563d233-51fa-4323-ac12-f833120cef44
 	  title:: 일 one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
-		- {{video https://youtu.be/pAFkRHIz-og?si=TVdhtgnardG_dSs2&rel=0&playsinline=0}}
+		- https://xoutu.be/pAFkRHIz-og
 		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
 		-
 		-
