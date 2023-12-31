@@ -37,7 +37,6 @@ alias:: 넘버블럭스
 	  | ((6566b865-b97f-4f5e-90ed-f78f24a7a4af)) | ((656712ea-dba1-404c-9812-8c6d8e326932)) |
 	  | ((6566b8bd-041f-41c0-8d3f-d8a3af3aec1f)) | ((656712ef-c30d-4dc8-a9ec-4400133337a2)) |
 - level1
-  collapsed:: true
 	- 일
 	  id:: 6563d233-51fa-4323-ac12-f833120cef44
 	  title:: 일 one
@@ -46,16 +45,13 @@ alias:: 넘버블럭스
 	  order:: 1
 		- https://xoutu.be/pAFkRHIz-og
 		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
-		-
-		-
-		-
 	- 다른 하나
 	  title:: 다른 하나 another one
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 2
 	  id:: 65669360-4c48-4252-9469-937c56c0608b
-		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf&playlist=pAFkRHIz-og&rel=0}}
+		- {{video https://xoutu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf&playlist=pAFkRHIz-og&rel=0}}
 		  id:: 6566e60c-ccf8-4681-8bc1-52444c3a668f
 	- 이
 	  title:: 이 two
