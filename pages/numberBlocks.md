@@ -1,6 +1,7 @@
 alias:: 넘버블럭스
 
 - single digit
+  collapsed:: true
 	- | 숫자 | 캐릭터 | 
 	  | 0 | ![](https://static.wikia.nocookie.net/numberblocks/images/e/e7/Better_zero.png/revision/latest?cb=20230106124648) |
 	  | 1 | ![](https://static.wikia.nocookie.net/numberblocks/images/9/9c/One.png/revision/latest?cb=20210322110748) |
@@ -13,18 +14,20 @@ alias:: 넘버블럭스
 	  | 7 | ![](https://static.wikia.nocookie.net/numberblocks/images/2/25/Better.png/revision/latest?cb=20220703002810) |
 	  | 8 | ![](https://static.wikia.nocookie.net/numberblocks/images/b/b5/8_2x4.png/revision/latest?cb=20210220112727) |
 	  | 9 | ![](https://static.wikia.nocookie.net/numberblocks/images/2/27/9_square.png/revision/latest?cb=20210220112742) |
-	- The Ten
-		- | 10 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/4f/10_5-2.png/revision/latest?cb=20220226040413) |
-		  | 11 | ![](https://static.wikia.nocookie.net/numberblocks/images/3/30/11Better.png/revision/latest?cb=20220809182508) |
-		  | 12 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/c8/TwelveS4.png/revision/latest?cb=20211024072015) |
-		  | 13 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/41/Thirteen_from_numberblocks_by_alexiscurry_ddm7r2d-fullview.png/revision/latest?cb=20191223165345) |
-		  | 14 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/0c/New_Fourteen_Image.png/revision/latest/scale-to-width-down/380?cb=20210502182105) |
-		  | 15 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/56/Numberblocks_Vector_-_Fifteen_%28Default_Arrangement%29.png/revision/latest/scale-to-width-down/700?cb=20220701230853) |
-		  | 16 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/10/Numberblocks_16_Official.png/revision/latest/scale-to-width-down/699?cb=20220609215900) |
-		  | 17 | ![](https://static.wikia.nocookie.net/numberblocks/images/a/ae/New_Seventeen_image.png/revision/latest?cb=20220809171747) |
-		  | 18 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/1f/Eighteen_from_numberblocks_by_alexiscurry_ddmkcz1-fullview.png/revision/latest?cb=20191223165447) |
-		  | 19 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/55/Nineteen.PNG/revision/latest/scale-to-width-down/260?cb=20210525111720) |
+- The Ten
+  collapsed:: true
+	- | 10 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/4f/10_5-2.png/revision/latest?cb=20220226040413) |
+	  | 11 | ![](https://static.wikia.nocookie.net/numberblocks/images/3/30/11Better.png/revision/latest?cb=20220809182508) |
+	  | 12 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/c8/TwelveS4.png/revision/latest?cb=20211024072015) |
+	  | 13 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/41/Thirteen_from_numberblocks_by_alexiscurry_ddm7r2d-fullview.png/revision/latest?cb=20191223165345) |
+	  | 14 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/0c/New_Fourteen_Image.png/revision/latest/scale-to-width-down/380?cb=20210502182105) |
+	  | 15 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/56/Numberblocks_Vector_-_Fifteen_%28Default_Arrangement%29.png/revision/latest/scale-to-width-down/700?cb=20220701230853) |
+	  | 16 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/10/Numberblocks_16_Official.png/revision/latest/scale-to-width-down/699?cb=20220609215900) |
+	  | 17 | ![](https://static.wikia.nocookie.net/numberblocks/images/a/ae/New_Seventeen_image.png/revision/latest?cb=20220809171747) |
+	  | 18 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/1f/Eighteen_from_numberblocks_by_alexiscurry_ddmkcz1-fullview.png/revision/latest?cb=20191223165447) |
+	  | 19 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/55/Nineteen.PNG/revision/latest/scale-to-width-down/260?cb=20210525111720) |
 - level 1
+  collapsed:: true
 	- | title | source |
 	  | ((6563d233-51fa-4323-ac12-f833120cef44)) | ((6566e5e9-3b36-4263-bfe2-b679e7c29825)) |
 	  | ((65669360-4c48-4252-9469-937c56c0608b)) | ((6566e60c-ccf8-4681-8bc1-52444c3a668f)) |
@@ -75,7 +78,7 @@ alias:: 넘버블럭스
 	  series:: numberBlocks
 	  order:: 2
 	  id:: 65669360-4c48-4252-9469-937c56c0608b
-		- {{video https://xoutu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf&playlist=pAFkRHIz-og&rel=0}}
+		- {{video https://youtu.be/LxAah6cxGc4?si=GNehAhILHYHchNKf&playlist=pAFkRHIz-og&rel=0}}
 		  id:: 6566e60c-ccf8-4681-8bc1-52444c3a668f
 	- 이
 	  title:: 이 two
@@ -308,3 +311,4 @@ alias:: 넘버블럭스
 		- {{video https://youtu.be/c5LMSgwJoME?si=3JLZjkQkjkFKRLWg}}
 		  id:: 656712ef-c30d-4dc8-a9ec-4400133337a2
 	-
+- [[numberBlocks/Resources]]
