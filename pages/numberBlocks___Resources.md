@@ -1,5 +1,4 @@
 - level1
-  collapsed:: true
 	- 일
 	  title:: 일 one
 	  level:: 1
