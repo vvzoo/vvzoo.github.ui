@@ -2,7 +2,15 @@ alias:: 넘버블럭스
 
 - | 숫자 | 캐릭터 | 
   | 1 | ![](https://static.wikia.nocookie.net/numberblocks/images/9/9c/One.png/revision/latest?cb=20210322110748) |
-  | 2 | ![]() |
+  | 2 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/cd/Two.png/revision/latest?cb=20210717144937) |
+  | 3 | ![](https://static.wikia.nocookie.net/numberblocks/images/f/f4/Three.png/revision/latest?cb=20220905194323) |
+  | 4 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/06/4_square.png/revision/latest?cb=20220701224910) |
+  | 5 | ![]() |
+  | 6 | ![]() |
+  | 7 | ![]() |
+  | 8 | ![]() |
+  | 9 | ![]() |
+  | 10 | ![]() |
 -
 - level 1
   collapsed:: true
