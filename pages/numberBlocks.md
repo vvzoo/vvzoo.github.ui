@@ -27,8 +27,9 @@ alias:: 넘버블럭스
 	  | 18 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/1f/Eighteen_from_numberblocks_by_alexiscurry_ddmkcz1-fullview.png/revision/latest?cb=20191223165447) |
 	  | 19 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/55/Nineteen.PNG/revision/latest/scale-to-width-down/260?cb=20210525111720) |
 - level 1
+  collapsed:: true
 	- | title | source |
-	  | ((ca4cb431-17f1-4507-b35b-c8deb1ad41d2)) |  ((6566e5e9-3b36-4263-bfe2-b679e7c29825)) |
+	  | ((ca4cb431-17f1-4507-b35b-c8deb1ad41d2)) | /up ((6566e5e9-3b36-4263-bfe2-b679e7c29825)) |
 	  | ((65669360-4c48-4252-9469-937c56c0608b)) | ((6566e60c-ccf8-4681-8bc1-52444c3a668f)) |
 	  | ((65669344-4ea3-4a00-9f57-e1553f6d1d7f)) | ((6566e694-0940-4d55-b704-7b6800283f5e)) |
 	  | ((65669482-92e5-42dc-b822-5078b89cfd57)) | ((6566e76e-6c56-44bf-bf29-a0724a450630)) |
@@ -689,3 +690,4 @@ alias:: 넘버블럭스
 		  id:: 656712ef-c30d-4dc8-a9ec-4400133337a2
 	-
 - [[numberBlocks/Resources]]
+-
