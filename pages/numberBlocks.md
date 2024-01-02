@@ -1,11 +1,11 @@
 alias:: 넘버블럭스
 
 - single digit
-  collapsed:: true
 	- | 숫자 | 캐릭터 | 
 	  | 0 | ![](https://static.wikia.nocookie.net/numberblocks/images/e/e7/Better_zero.png/revision/latest?cb=20230106124648) |
 	  | 1 | ![](https://static.wikia.nocookie.net/numberblocks/images/9/9c/One.png/revision/latest?cb=20210322110748) |
 	  | 2 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/cd/Two.png/revision/latest?cb=20210717144937) |
+	  | double trouble | ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fnumberblocks-the-terrible-twos-full-episode-youtube--747386500664762775%2F&psig=AOvVaw1v6ynRtvjR4L63bOtlB7qs&ust=1704263167634000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDCtZqJvoMDFQAAAAAdAAAAABAD) |
 	  | 3 | ![](https://static.wikia.nocookie.net/numberblocks/images/f/f4/Three.png/revision/latest?cb=20220905194323) |
 	  | 4 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/06/4_square.png/revision/latest?cb=20220701224910) |
 	  | 5 | ![](https://static.wikia.nocookie.net/numberblocks/images/8/8f/5_better.png/revision/latest?cb=20220817010000) |
