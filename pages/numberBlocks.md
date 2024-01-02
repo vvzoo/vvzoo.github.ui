@@ -15,6 +15,15 @@ alias:: 넘버블럭스
 	  | 9 | ![](https://static.wikia.nocookie.net/numberblocks/images/2/27/9_square.png/revision/latest?cb=20210220112742) |
 	- The Ten
 		- | 10 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/4f/10_5-2.png/revision/latest?cb=20220226040413) |
+		  | 11 | ![](https://static.wikia.nocookie.net/numberblocks/images/3/30/11Better.png/revision/latest?cb=20220809182508) |
+		  | 12 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/c8/TwelveS4.png/revision/latest?cb=20211024072015) |
+		  | 13 | ![]() |
+		  | 14 | ![]() |
+		  | 15 | ![]() |
+		  | 16 | ![]() |
+		  | 17 | ![]() |
+		  | 18 | ![]() |
+		  | 19 | ![]() |
 -
 - level 1
 	- | title | source |
