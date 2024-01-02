@@ -1,16 +1,17 @@
 alias:: 넘버블럭스
 
 - | 숫자 | 캐릭터 | 
+  | 0 
   | 1 | ![](https://static.wikia.nocookie.net/numberblocks/images/9/9c/One.png/revision/latest?cb=20210322110748) |
   | 2 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/cd/Two.png/revision/latest?cb=20210717144937) |
   | 3 | ![](https://static.wikia.nocookie.net/numberblocks/images/f/f4/Three.png/revision/latest?cb=20220905194323) |
   | 4 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/06/4_square.png/revision/latest?cb=20220701224910) |
-  | 5 | ![]() |
-  | 6 | ![]() |
-  | 7 | ![]() |
-  | 8 | ![]() |
-  | 9 | ![]() |
-  | 10 | ![]() |
+  | 5 | ![](https://static.wikia.nocookie.net/numberblocks/images/8/8f/5_better.png/revision/latest?cb=20220817010000) |
+  | 6 | ![](https://static.wikia.nocookie.net/numberblocks/images/a/ac/6_2x3.png/revision/latest?cb=20220802202307) |
+  | 7 | ![](https://static.wikia.nocookie.net/numberblocks/images/2/25/Better.png/revision/latest?cb=20220703002810) |
+  | 8 | ![](https://static.wikia.nocookie.net/numberblocks/images/b/b5/8_2x4.png/revision/latest?cb=20210220112727) |
+  | 9 | ![](https://static.wikia.nocookie.net/numberblocks/images/2/27/9_square.png/revision/latest?cb=20210220112742) |
+  | 10 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/4f/10_5-2.png/revision/latest?cb=20220226040413) |
 -
 - level 1
   collapsed:: true
