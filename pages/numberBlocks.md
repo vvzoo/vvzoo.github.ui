@@ -21,10 +21,9 @@ alias:: 넘버블럭스
 		  | 14 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/0c/New_Fourteen_Image.png/revision/latest/scale-to-width-down/380?cb=20210502182105) |
 		  | 15 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/56/Numberblocks_Vector_-_Fifteen_%28Default_Arrangement%29.png/revision/latest/scale-to-width-down/700?cb=20220701230853) |
 		  | 16 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/10/Numberblocks_16_Official.png/revision/latest/scale-to-width-down/699?cb=20220609215900) |
-		  | 17 | ![]() |
-		  | 18 | ![]() |
-		  | 19 | ![]() |
--
+		  | 17 | ![](https://static.wikia.nocookie.net/numberblocks/images/a/ae/New_Seventeen_image.png/revision/latest?cb=20220809171747) |
+		  | 18 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/1f/Eighteen_from_numberblocks_by_alexiscurry_ddmkcz1-fullview.png/revision/latest?cb=20191223165447) |
+		  | 19 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/55/Nineteen.PNG/revision/latest/scale-to-width-down/260?cb=20210525111720) |
 - level 1
 	- | title | source |
 	  | ((6563d233-51fa-4323-ac12-f833120cef44)) | ((6566e5e9-3b36-4263-bfe2-b679e7c29825)) |
@@ -68,7 +67,7 @@ alias:: 넘버블럭스
 	  level:: 1
 	  series:: numberBlocks
 	  order:: 1
-		- {{video https://xoutu.be/pAFkRHIz-og}}
+		- {{video https://youtu.be/pAFkRHIz-og}}
 		  id:: 6566e5e9-3b36-4263-bfe2-b679e7c29825
 	- 다른 하나
 	  title:: 다른 하나 another one
