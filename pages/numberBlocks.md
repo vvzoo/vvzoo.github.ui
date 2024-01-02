@@ -1,7 +1,7 @@
 alias:: 넘버블럭스
 
 - | 숫자 | 캐릭터 | 
-  | 0 
+  | 0 | ![](https://static.wikia.nocookie.net/numberblocks/images/e/e7/Better_zero.png/revision/latest?cb=20230106124648) |
   | 1 | ![](https://static.wikia.nocookie.net/numberblocks/images/9/9c/One.png/revision/latest?cb=20210322110748) |
   | 2 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/cd/Two.png/revision/latest?cb=20210717144937) |
   | 3 | ![](https://static.wikia.nocookie.net/numberblocks/images/f/f4/Three.png/revision/latest?cb=20220905194323) |
