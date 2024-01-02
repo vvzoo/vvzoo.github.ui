@@ -1,7 +1,9 @@
 alias:: 넘버블럭스
 
 - | 숫자 | 캐릭터 | 
-  | 0 |
+  | 1 | ![](https://static.wikia.nocookie.net/numberblocks/images/9/9c/One.png/revision/latest?cb=20210322110748) |
+  | 2 | ![]() |
+-
 - level 1
   collapsed:: true
 	- | title | source |
