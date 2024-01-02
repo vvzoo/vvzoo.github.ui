@@ -17,10 +17,10 @@ alias:: 넘버블럭스
 		- | 10 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/4f/10_5-2.png/revision/latest?cb=20220226040413) |
 		  | 11 | ![](https://static.wikia.nocookie.net/numberblocks/images/3/30/11Better.png/revision/latest?cb=20220809182508) |
 		  | 12 | ![](https://static.wikia.nocookie.net/numberblocks/images/c/c8/TwelveS4.png/revision/latest?cb=20211024072015) |
-		  | 13 | ![]() |
-		  | 14 | ![]() |
-		  | 15 | ![]() |
-		  | 16 | ![]() |
+		  | 13 | ![](https://static.wikia.nocookie.net/numberblocks/images/4/41/Thirteen_from_numberblocks_by_alexiscurry_ddm7r2d-fullview.png/revision/latest?cb=20191223165345) |
+		  | 14 | ![](https://static.wikia.nocookie.net/numberblocks/images/0/0c/New_Fourteen_Image.png/revision/latest/scale-to-width-down/380?cb=20210502182105) |
+		  | 15 | ![](https://static.wikia.nocookie.net/numberblocks/images/5/56/Numberblocks_Vector_-_Fifteen_%28Default_Arrangement%29.png/revision/latest/scale-to-width-down/700?cb=20220701230853) |
+		  | 16 | ![](https://static.wikia.nocookie.net/numberblocks/images/1/10/Numberblocks_16_Official.png/revision/latest/scale-to-width-down/699?cb=20220609215900) |
 		  | 17 | ![]() |
 		  | 18 | ![]() |
 		  | 19 | ![]() |
